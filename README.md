@@ -6,7 +6,7 @@
 ## Professor Orientador: Me. Carlos Augusto Lombardi Garcia
 ## Professor TG1       : Giuliano Araujo Bertoti 
 ## Professor TG2       : Jorge Tadao Matsushima 
-## Coordenador do Curso: Professor 
+## Coordenador do Curso: José Walmir Gonçalves Duque
 
 
 Ler no PDF (https://github.com/MarcosVP-Fatec/TG-Fatec/blob/master/docs/TG_MarcosVinicioPereira_FatecSJC.pdf)
