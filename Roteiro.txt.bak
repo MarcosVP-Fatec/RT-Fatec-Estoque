@@ -18,17 +18,11 @@
 2.5 Criando um Workflow
 
 
+===
+PROBLEMAS
+- A prefeitura tinha uso de Oracle, mas tivemos que utlizad o Excel
 
-1.	Ata de Registro de Preço, que é um tipo de licitação em que se firma um contrato de intenção de compra em que o fornecedor vitorioso se compromete a vender uma quantidade prédeterminada do item licitado, geralmente dentro de um período de um ano, de forma que as aquisições seriam realizadas através de Requisição de Compra para estes itens somente quando necessária. Quando esta ata acontece cada setor da prefeitura precisa estimar a sua quantidade necessária para consumo dentro deste período de fornecimento.
-
-1) Como colocar o link da lei de licitações.
-
-1JARDIM, L. O. D. Citações - Indicativos no Texto e Notas de Rodapé. Disponível em: <https://www.franca.unesp.br/Home/Biblioteca_N/citacao.pdf>. Acesso em: 10 mar. 2021.
-
-
-
-¹Lei nº 8.666/93, de 21 de junho de 1993. Disponível em <https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm>
-²Constituição Federal - CAPÍTULO VII DA ADMINISTRAÇÃO PÚBLICA - SEÇÃO I - DISPOSIÇÕES GERAIS. Disponível em: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>
+== Verificar titularidade dos outros professores.
 
 -Necessidade de compra
 -Ponto de Pedido atrelado à média de consumo
@@ -36,6 +30,8 @@
 -Bloqueio de consumo de saldo em ARP por outras secretarias
 -Controle de saldo em ARP concedido a outras secretarias
 -Controle de AFs em transito (Saldo em estoque)
--
+-Controle de itens que devem ser excluídos do estoque.
 
 
+
+Estruturar e organizar os dados já existentes e permitir armazenar e utilizar outros dados que serão inseridos.

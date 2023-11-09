@@ -16,7 +16,9 @@ Ler no PDF (https://github.com/MarcosVP-Fatec/TG-Fatec/blob/master/docs/TG_Marco
 
 	"Realizar estimativas de estoque e licitações tendendo à realidade e controlar os dados gerados pelo setor".
 
-	Quando fui integrado ao setor de Compras da Secretaria de Educação e Cidadania da Prefeitura de São José dos Campos, passei a fazer parte de uma equipe de cinco pessoas que tinham diversas incumbências e, dentre elas, haviam algumas que eram realizadas de forma muito analítica sem nenhum auxílio de sistemas com exceção de algumas planilhas geradas pelo software municipal que soltava dados desnormalizados, em grande quantidade e que eram analisados visualmente.
+	No setor de Compras da Secretaria de Educação e Cidadania da Prefeitura Municipal de São José dos Campos a equipe de cinco pessoas que tinham diversas incumbências e, dentre elas, haviam algumas que eram realizadas de forma muito analítica com pouco suporte tecnológico.
+
+	Havia a necessidade de organizar, normalizar e automatizar a gestão dos dados.
 
 
 *   *   *

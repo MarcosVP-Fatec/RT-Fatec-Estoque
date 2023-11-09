@@ -18,9 +18,13 @@
 2.5 Criando um Workflow
 
 
+===
+PROBLEMAS
+- A prefeitura tinha uso de Oracle, mas tivemos que utlizad o Excel
+- A informatica ainda estava migrando o já existente sistema em Desktop para Web.
+- 
 
-¹Lei nº 8.666/93, de 21 de junho de 1993. Disponível em <https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm>
-²Constituição Federal - CAPÍTULO VII DA ADMINISTRAÇÃO PÚBLICA - SEÇÃO I - DISPOSIÇÕES GERAIS. Disponível em: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>
+== Verificar titularidade dos outros professores.
 
 -Necessidade de compra
 -Ponto de Pedido atrelado à média de consumo
@@ -28,6 +32,8 @@
 -Bloqueio de consumo de saldo em ARP por outras secretarias
 -Controle de saldo em ARP concedido a outras secretarias
 -Controle de AFs em transito (Saldo em estoque)
--
+-Controle de itens que devem ser excluídos do estoque.
+
+
 
 Estruturar e organizar os dados já existentes e permitir armazenar e utilizar outros dados que serão inseridos.
