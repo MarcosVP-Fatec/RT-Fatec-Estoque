@@ -12,4 +12,6 @@ git add .
 git commit -m "Atualiza‡Æo"
 git status
 
+@echo.
+
 :fim
