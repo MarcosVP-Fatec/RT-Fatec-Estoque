@@ -18,6 +18,11 @@
 2.5 Criando um Workflow
 
 
+Pág 11 Geração da Planilha de Compras.
+Caminho: "#Planilha de Compras/Ata# || [Filtros] || <Ativos Zerados>".
+
+
+
 ===
 PROBLEMAS
 - A prefeitura tinha uso de Oracle, mas tivemos que utlizad o Excel
@@ -36,4 +41,32 @@ PROBLEMAS
 
 
 
-Estruturar e organizar os dados já existentes e permitir armazenar e utilizar outros dados que serão inseridos.
+Sobe itens de consumo
+
+Coluna RC exibe o número da única RC ou #n indicando um número n de RCs para este item
+
+Ajusta as larguras das colunas na Itens
+
+Consumo
+Pico
+Média = Uso de desvio padrão para considerar somente movimentação de manutenção.
+Pend = Cálculo da quantidade pendente consid
+
+
+
+Não Comprado = Demonstra o que o cálculo indica que ainda precise ser comprado pela planilha
+Sugestão = Quantidade calculada para compra no momento.
+
+README.
+- Descritivo em como ler os códigos fontes das planilhas.
+
+
+
+
+Prioridade 0 -> Saldo = 0 / PontoPed > 0
+Prioridade 1 -> Saldo 01% ~ 10% do PontoPed
+Prioridade 2 -> Saldo 10% ~ 25% do PontoPed
+Prioridade 3 -> Saldo 25% ~ 50% do PontoPed
+Prioridade 4 -> Saldo 50% ~ 75% do PontoPed
+Prioridade 5 -> Saldo 75% ~ 100% do PontoPed
+Prioridade 9 -> Saldo maior que o PontoPed ou PontoPed = 0

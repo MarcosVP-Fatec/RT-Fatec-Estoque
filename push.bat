@@ -3,6 +3,7 @@ git status
 
 echo.
 choice /C SN /M "Confirma o add/commit/push?"
+
 if %errorlevel%==1 goto atualiza
 goto fim
 
