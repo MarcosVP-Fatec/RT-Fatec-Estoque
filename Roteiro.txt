@@ -54,19 +54,20 @@ Pend = Cálculo da quantidade pendente consid
 
 
 
-Não Comprado = Demonstra o que o cálculo indica que ainda precise ser comprado pela planilha
-Sugestão = Quantidade calculada para compra no momento.
-
 README.
 - Descritivo em como ler os códigos fontes das planilhas.
 
 
 
 
-Prioridade 0 -> Saldo = 0 / PontoPed > 0
-Prioridade 1 -> Saldo 01% ~ 10% do PontoPed
-Prioridade 2 -> Saldo 10% ~ 25% do PontoPed
-Prioridade 3 -> Saldo 25% ~ 50% do PontoPed
-Prioridade 4 -> Saldo 50% ~ 75% do PontoPed
-Prioridade 5 -> Saldo 75% ~ 100% do PontoPed
-Prioridade 9 -> Saldo maior que o PontoPed ou PontoPed = 0
+
+
+
+
+
+
+
+
+
+
+
