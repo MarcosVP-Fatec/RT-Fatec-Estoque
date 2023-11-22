@@ -1,61 +1,12 @@
-1.1 Definição do Problema
-1.2 Objetivo
-
-2.1 Arquitetura
-2.2 Modelo de Dados
-2.3 Detalhes
-
-3 Resultados e Discussão
-
-=================================================================
-1.1 Definição do Problema
-1.2 Objetivo
-
-2.1 Processo de desenvolvimento
-2.2 Teste
-2.3 Detalhes
-2.4 Rodando Testes
-2.5 Criando um Workflow
-
-
 Pág 11 Geração da Planilha de Compras.
 Caminho: "#Planilha de Compras/Ata# || [Filtros] || <Ativos Zerados>".
 
 
-
-===
-PROBLEMAS
-- A prefeitura tinha uso de Oracle, mas tivemos que utlizad o Excel
-- A informatica ainda estava migrando o já existente sistema em Desktop para Web.
-- 
-
-== Verificar titularidade dos outros professores.
-
--Necessidade de compra
--Ponto de Pedido atrelado à média de consumo
--Controle de saldo em ARP
--Bloqueio de consumo de saldo em ARP por outras secretarias
--Controle de saldo em ARP concedido a outras secretarias
--Controle de AFs em transito (Saldo em estoque)
--Controle de itens que devem ser excluídos do estoque.
-
-
-
-Sobe itens de consumo
-
-Coluna RC exibe o número da única RC ou #n indicando um número n de RCs para este item
-
-Ajusta as larguras das colunas na Itens
-
-Consumo
-Pico
-Média = Uso de desvio padrão para considerar somente movimentação de manutenção.
-Pend = Cálculo da quantidade pendente consid
-
-
-
 README.
-- Descritivo em como ler os códigos fontes das planilhas.
+== Verificar titularidade dos outros professores para o readme
+== Descritivo em como ler os códigos fontes das planilhas.
+
+
 
 
 
