@@ -1,3 +1,12 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const links = document.querySelectorAll("a[href^='http']:not([href*='" + window.location.host + "'])");
+    links.forEach(link => {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+    });
+});
+</script>
 * * *
 # TG - Modalidade Relatório Técnico-Fatec
 ### **GESTÃO DE ESTOQUE E ESTIMATIVAS PARA LICITAÇÕES NA PREFEITURA DE SÃO JOSÉ DOS CAMPOS**
@@ -41,11 +50,4 @@
 
 *   *   *
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const links = document.querySelectorAll("a[href^='http']:not([href*='" + window.location.host + "'])");
-    links.forEach(link => {
-        link.setAttribute("target", "_blank");
-    });
-});
-</script>
+
