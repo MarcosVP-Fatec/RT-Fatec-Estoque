@@ -29,17 +29,21 @@
 
 	Devido à urgência resolução de diversas análises e a falta de estruturação dos dados disponíveis.
 
-	Não havia nenhuma expectativa de melhorias nos sistemas nem de aumento de pessoal para melhorarmos os resultados dos trabalhos.
+	Não havia nenhuma expectativa de melhorias nos sistemas nem de aumento de pessoal  para  melhorarmos  os
+	resultados dos trabalhos.
 
-	O setor já possuía licenças do Microsoft Office que disponibilizava o Microsoft Excel para todos e era a única ferramenta tecnológica autorizada para uso.
+	O setor já possuía licenças do Microsoft Office que disponibilizava o Microsoft Excel para todos e era a
+	única ferramenta tecnológica autorizada para uso.
 	
 *   *   *
 
 ## PROPOSTA DE SOLUÇÃO
 
-	Tendo o VBA embutido dentro do Office, tal ferramenta possibilitada o uso de algoritmos para otimizar várias análises.
+	Tendo o VBA embutido dentro do Office, tal ferramenta possibilitada o uso de  algoritmos  para  otimizar
+	várias análises.
 
-	Foi definido que faríamos outras planilhas que importariam os dados já disponívels fazendo a normalização necessária, introduzindo funções com automatizações em cálculos e relatórios.
+	Foi definido  que  faríamos  outras  planilhas  que  importariam  os  dados  já  disponívels  fazendo  a
+	normalização necessária, introduzindo funções com automatizações em cálculos e relatórios.
 
 *   *   *
 
