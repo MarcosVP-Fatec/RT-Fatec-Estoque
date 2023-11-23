@@ -13,9 +13,9 @@
 [Ler no PDF]( https://github.com/MarcosVP-Fatec/RT-Fatec-Estoque/blob/master/TG%20-%20Marcos%20Vinicio%20Pereira%20-%20Modalidade%203%20-%20Relat%C3%B3rio%20T%C3%A9cnico.pdf )
 
 * * *
-# O PROBLEMA
+## O PROBLEMA
 
-	"Realizar análise de necessidade de estoque e estimativas para licitações".
+	"Realizar análise de necessidade de estoque e estimativas para licitações."
 
 	No setor de Compras da Secretaria de Educação e Cidadania da Prefeitura Municipal de São José dos Campos a equipe de cinco pessoas que tinham diversas incumbências e, dentre elas, haviam algumas que eram realizadas de forma muito analítica com pouco suporte tecnológico.
 
@@ -23,7 +23,7 @@
 
 *   *   *
 
-# MOTIVAÇÃO
+## MOTIVAÇÃO
 
 	Devido à urgência resolução de diversas análises e a falta de estruturação dos dados disponíveis.
 
@@ -33,7 +33,7 @@
 	
 *   *   *
 
-# PROPOSTA DE SOLUÇÃO
+## PROPOSTA DE SOLUÇÃO
 
 	Tendo o VBA embutido dentro do Office, tal ferramenta possibilitada o uso de algoritmos para otimizar várias análises.
 
