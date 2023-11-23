@@ -10,16 +10,16 @@
 ### Professor TG2       : Dr. Jorge Tadao Matsushima 
 ### Coordenador do Curso: Me. José Walmir Gonçalves Duque
 
-</script>
-
-[Ler no PDF](https://github.com/MarcosVP-Fatec/RT-Fatec-Estoque/blob/master/TG%20-%20Marcos%20Vinicio%20Pereira%20-%20Modalidade%203%20-%20Relat%C3%B3rio%20T%C3%A9cnico.pdf/{target="_blank"})
+[Ler no PDF](https://github.com/MarcosVP-Fatec/RT-Fatec-Estoque/blob/master/TG%20-%20Marcos%20Vinicio%20Pereira%20-%20Modalidade%203%20-%20Relat%C3%B3rio%20T%C3%A9cnico.pdf/)
 
 * * *
 ## O PROBLEMA
 
 	"Realizar análise de necessidade de estoque e estimativas para licitações."
 
-	No setor de Compras da Secretaria de Educação e Cidadania da Prefeitura Municipal de São José dos Campos a equipe de cinco pessoas que tinham diversas incumbências e, dentre elas, haviam algumas que eram realizadas de forma muito analítica com pouco suporte tecnológico.
+	No setor de Compras da Secretaria de Educação e Cidadania da Prefeitura Municipal de São José dos Campos
+	a equipe de cinco pessoas que tinham diversas incumbências e,  dentre  elas,  haviam  algumas  que  eram
+	realizadas de forma muito analítica com pouco suporte tecnológico.
 
 	Havia a necessidade de organizar, normalizar e automatizar a gestão dos dados.
 
