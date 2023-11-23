@@ -10,7 +10,7 @@
 ## Professor TG2       : Dr. Jorge Tadao Matsushima 
 ## Coordenador do Curso: Me. José Walmir Gonçalves Duque
 
-[Ler no PDF](#"https://github.com/MarcosVP-Fatec/RT-Fatec-Estoque/blob/master/TG%20-%20Marcos%20Vinicio%20Pereira%20-%20Modalidade%203%20-%20Relat%C3%B3rio%20T%C3%A9cnico.pdf")
+[Ler no PDF](# "https://github.com/MarcosVP-Fatec/RT-Fatec-Estoque/blob/master/TG%20-%20Marcos%20Vinicio%20Pereira%20-%20Modalidade%203%20-%20Relat%C3%B3rio%20T%C3%A9cnico.pdf")
 
 * * *
 # O PROBLEMA
