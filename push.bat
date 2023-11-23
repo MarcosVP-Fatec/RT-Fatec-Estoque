@@ -11,6 +11,7 @@ goto fim
 @echo on
 git add .
 git commit -m "Atualiza‡Æo"
+git push
 git status
 
 @echo.
