@@ -2,6 +2,10 @@
 
 02) Devo mencionar a Prefeitura no tópico clientes?
 
-03) 
+03) Todas as palavras em inglês devem estar em itálico? Mesmo os nomes de programas?
+
+04) Na página 8 ver se a forma como está a nota de rodapé sobre Workbook está correta.
+
+O cálculo baseado em Média x Meses é fixado em 4 meses para todos os itens, independente de serem ou não perecíveis
 
 
