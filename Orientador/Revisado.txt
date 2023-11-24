@@ -1,0 +1,53 @@
+01) "Indicar se é um sistema ou aplicativo ou solução ou protótipo para otimização"
+    Título para "SISTEMA PARA PROVISÃO  DE ESTOQUE E ESTIMATIVAS PARA LICITAÇÕES"
+    Título do doc
+    Título do formulário do Orientador.
+    Título no README.md
+
+02) Alteração de Admc (Sistema de) Administração de Materiais e Compra
+    para SG Sistema de Gestão
+
+03) 2.3 - Detalhes (talvez indicar o que)
+    Alterado para "Detalhes do Desenvolvimento"
+
+
+
+--) Retirar data da seleção da exportação
+
+--) Trocar planilhas por Workbooks quando se tratar do arquivo xlsm
+    Trocar planklhas por Worksheet quando se tratar de aba, planilha.
+
+--) Remover informação de data quando foi construído.
+    Descaracterizar o nome da prefeitura e o nome do sistema.
+
+--) Trocado Secretaria de Educação e Cidadania (SEC) para
+    Secretaria de Educação (SecEduc)
+
+--) Trocado PMSJC para prefeitura
+
+--) Trocado DRM (Departamento de Recursos Materiais) para
+    DL (Departamento de Licitações)
+
+--) "Remover a referência ao passado e usar o tempo presente."
+    Pág 12.
+
+--) Alteração de verbos conjugados para impessoal ou 3ª pessoa no singular
+    "Usar a terceira forma no singular. Em que pode-se ver...."
+
+
+--) Adotar o uso de apêndice para exibir os detalhes repetitivos mantendo no corpo do documento alguns desses itens.
+
+
+--) Remover o logotipo
+
+--) Rever o README.md
+
+--) Manter essas explicações na introdução.
+    Aqui no capítulo 3, falar das tecnologias e das motivações na adoção delas, mas vinculando aos resultados. Quais os elementos de tecnologia que proporcionaram um determinado resultado.
+
+--) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
+
+--) Criar os apêndices
+
+
+

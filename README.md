@@ -1,11 +1,11 @@
 * * *
 # TG - Modalidade Relatório Técnico-Fatec
-### **GESTÃO DE ESTOQUE E ESTIMATIVAS PARA LICITAÇÕES NA PREFEITURA DE SÃO JOSÉ DOS CAMPOS**
+## [Faculdade de Tecnologia de São José dos Campos Professor Jassen Vidal](http://sjc.fatec.sp.gov.br/)
+## Tema: **Sistema para Provisão de Estoque e Estimativas para Licitações**
 * * *
 ## Aluno: **MARCOS VINICIO PEREIRA**
-## [Faculdade de Tecnologia de São José dos Campos Professor Jassen Vidal](http://sjc.fatec.sp.gov.br/)
-### Curso: **Superior em Tecnologia de Bancos de Dados**
-### Professor Orientador: Me. Carlos Augusto Lombardi Garcia
+## Curso: **Superior em Tecnologia de Banco de Dados**
+### Professor Orientador: **Me. Carlos Augusto Lombardi Garcia**
 ### Professor TG1       : Me. Giuliano Araujo Bertoti 
 ### Professor TG2       : Dr. Jorge Tadao Matsushima 
 ### Coordenador do Curso: Me. José Walmir Gonçalves Duque
