@@ -47,4 +47,13 @@
 
 *   *   *
 
+# Instalações
+* Python (Instalação): https://www.python.org/downloads/
+* Python (Atualizaçao):<br>a) **python -m pip install --upgrade pip** <br>b) **python -m pip install --upgrade --force-reinstall python**
+* Jupyter Notebook (Instalação): **pip install notebook**
+* Jupyter Notebook (Atualização): **pip install --upgrade notebook**
+
+
+
+
 
