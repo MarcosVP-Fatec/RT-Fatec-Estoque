@@ -18,15 +18,15 @@
 06) Trocado DRM (Departamento de Recursos Materiais) para
     DL (Departamento de Licitações)
 
-07) Trocar planilha por WorkBook quando se tratar do arquivo xlsm
+07) Retirar data da seleção da exportação
+
+--) Rever a descrição XLSM
+    Ajustado para Workbook quando necessário.
+
+--) Trocar planilha por WorkBook quando se tratar do arquivo xlsm
     Trocar planilha por WorkSheet quando se tratar de aba, planilha.
 
---) Rever o XLSM
-
-
---) RelAdm_ 050 e RelAdm_053
-
---) Retirar data da seleção da exportação
+--) RelAdm_050 e RelAdm_053
 
 
 --) Remover informação de data quando foi construído.
@@ -48,7 +48,12 @@
 
 --) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
 
+
+--) Rever a tabela de resultados de acordo com os novos textos da tabela de problemas.
+
 --) Rever o README.md
+
+
 
 
 

@@ -8,4 +8,7 @@
 
 O cálculo baseado em Média x Meses é fixado em 4 meses para todos os itens, independente de serem ou não perecíveis
 
+Justificativa pelo orientador/professor da disciplina pela entrega fora do prazo
+Pensei em colocar: "O aluno pediu para mudar o tema do TG para viabilizar a entrega neste semestre o que gerou os atrasos."
+
 
