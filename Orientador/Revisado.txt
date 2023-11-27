@@ -20,18 +20,22 @@
 
 07) Retirar data da seleção da exportação
 
+08) RelAdm_050 alterado para AED-S (Arquivo de Exportação de Dados - Saldo)
+    RelAdm_053 alterado para AED-CM (Arquivo de Exportação de Dados - Consumo Mensal)
+    
+09) Referência a prefeitura municipal e PMSJC em todos os workbooks    
+
+--) Remover o logotipo
+
 --) Rever a descrição XLSM
     Ajustado para Workbook quando necessário.
 
 --) Trocar planilha por WorkBook quando se tratar do arquivo xlsm
     Trocar planilha por WorkSheet quando se tratar de aba, planilha.
 
---) RelAdm_050 e RelAdm_053
-
-
 --) Remover informação de data quando foi construído.
-    Descaracterizar o nome da prefeitura e o nome do sistema.
 
+--) Descaracterizar o nome da prefeitura e o nome do sistema.
 
 --) "Remover a referência ao passado e usar o tempo presente."
     Pág 12.
@@ -41,7 +45,6 @@
 
 --) Adotar o uso de apêndice para exibir os detalhes repetitivos mantendo no corpo do documento alguns desses itens.
 
---) Remover o logotipo
 
 --) Manter essas explicações na introdução.
     Aqui no capítulo 3, falar das tecnologias e das motivações na adoção delas, mas vinculando aos resultados. Quais os elementos de tecnologia que proporcionaram um determinado resultado.
@@ -50,6 +53,8 @@
 
 
 --) Rever a tabela de resultados de acordo com os novos textos da tabela de problemas.
+
+--) Rever nas planilhas o uso de PMSJC
 
 --) Rever o README.md
 
@@ -61,9 +66,6 @@
 1 SOBRENOME DO AUTOR, Nome. Título da página. Nome do Site. Disponível em: <URL>. Acesso em: data de acesso.
 
 LEARN. Microsoft. Disponível em: <https://learn.microsoft.com/pt-br/powerquery-m/excel-workbook>. Acesso em: 24/11/2012.
-
-
-
 
 WorkBook: Definição data para os arquivos .xls, .xlsx ou .xlsm.
 
