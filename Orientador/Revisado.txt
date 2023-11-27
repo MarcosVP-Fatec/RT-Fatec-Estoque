@@ -22,10 +22,15 @@
 
 08) RelAdm_050 alterado para AED-S (Arquivo de Exportação de Dados - Saldo)
     RelAdm_053 alterado para AED-CM (Arquivo de Exportação de Dados - Consumo Mensal)
-    
-09) Referência a prefeitura municipal e PMSJC em todos os workbooks    
 
---) Remover o logotipo
+09) Descaracterizar o nome da prefeitura e o nome do sistema.
+    Retirada das referências a "prefeitura municipal de São José dos Campos" e PMSJC em todos os workbooks.
+    Deixado somente como Prefeitura Municipal
+    Troca do termo Secretaria de Educação e Cidadania para somente "Secretaria de Educação"
+
+10) Remover o logotipo
+
+11) Ajustes nos gráficos de Itens Zerados no Estoque para melhorar a visualização.
 
 --) Rever a descrição XLSM
     Ajustado para Workbook quando necessário.
@@ -35,8 +40,6 @@
 
 --) Remover informação de data quando foi construído.
 
---) Descaracterizar o nome da prefeitura e o nome do sistema.
-
 --) "Remover a referência ao passado e usar o tempo presente."
     Pág 12.
 
@@ -45,16 +48,12 @@
 
 --) Adotar o uso de apêndice para exibir os detalhes repetitivos mantendo no corpo do documento alguns desses itens.
 
-
 --) Manter essas explicações na introdução.
     Aqui no capítulo 3, falar das tecnologias e das motivações na adoção delas, mas vinculando aos resultados. Quais os elementos de tecnologia que proporcionaram um determinado resultado.
 
 --) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
 
-
 --) Rever a tabela de resultados de acordo com os novos textos da tabela de problemas.
-
---) Rever nas planilhas o uso de PMSJC
 
 --) Rever o README.md
 
@@ -68,4 +67,10 @@
 LEARN. Microsoft. Disponível em: <https://learn.microsoft.com/pt-br/powerquery-m/excel-workbook>. Acesso em: 24/11/2012.
 
 WorkBook: Definição data para os arquivos .xls, .xlsx ou .xlsm.
+
+1 LEI Nº 8.666, DE 21 DE JUNHO DE 1993, Presidência da República Casa Civil. Disponível em: <https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm>. Acesso em: 07/09/23.
+
+2 CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988, Presidência da República Casa Civil. Disponível em: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. Acesso em: 07/09/23.
+
+
 
