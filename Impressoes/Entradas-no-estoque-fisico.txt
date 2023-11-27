@@ -1,0 +1,785 @@
+Entradas no Estoque Físico (779) desde o dia 23/10/2023 17:35:02 até esta Planilha nº 2/2023
+=========================================================================================================
+|  CÓDIGO|DESCRIÇÃO                                              |SDO ANTERIOR| SALDO ATUAL|   ACRÉSCIMO|
+|--------|-------------------------------------------------------|------------|------------|------------|
+|  78.399|ABRACADEIRA GALVANIZADA TIPO D  - 1.1/2"               |           0|         325|         325|
+|  14.013|ABRACADEIRA GALVANIZADA TIPO D DE 3/4"                 |           0|         190|         190|
+|  14.012|ABRACADEIRA GALVANIZADA TIPO U DE 3/4"                 |           0|       3.316|       3.316|
+|  10.867|ACUCAR REFINADO AMORFO/MICROCRISTALINO PT C/ 1KG       |           0|      12.771|      12.771|
+|  28.181|ADAPTADOR DE PVC RIGIDO MARROM DE 2" SOLDAVEL. A MARCA |           0|          12|          12|
+|  12.824|ADAPTADOR DE PVC RIGIDO SOLDAVEL C/ FLANGE SEXTAVADA FI|           0|          92|          92|
+|  12.821|ADAPTADOR DE PVC RIGIDO SOLDAVEL C/ FLANGE SEXTAVADA FI|           0|         137|         137|
+|  12.813|ADAPTADOR DE PVC RIGIDO SOLDAVEL C/ FLANGE SEXTAVADA FI|           0|          61|          61|
+|  12.830|ADAPTADOR DE PVC SOLDAVEL MARROM 1.1/2". A MARCA DEVERA|           0|       1.412|       1.412|
+|  12.835|ADAPTADOR DE PVC SOLDAVEL MARROM 3/4". A MARCA DEVERA V|           0|         459|         459|
+|  28.184|ADAPTADOR EM PVC RIGIDO SOLDAVEL MARROM DE 1". A MARCA |           0|         380|         380|
+|  16.053|ADESIVO P/ CHAPISCO, CONCRETO E ARGAMASSA - BALDE C/18 |           0|           7|           7|
+| 140.326|ADESIVO SELANTE A BASE DE POLIURETANO, PARA A CONSTRUCA|           0|       1.176|       1.176|
+| 126.345|AGUA DESTILADA PARA BATERIA - FRASCO C/ 1 LITRO        |           0|         300|         300|
+|  88.876|ALAVANCA EM FERRO  PARA VITRO, TAMANHO PADRAO          |           0|         692|         692|
+| 112.109|ALCOOL GEL A 70%, FRASCO C/ 1.000 ML, VALVULA "TIPO PUM|           0|      12.614|      12.614|
+| 138.054|ANEL DE VEDACAO PARA BACIA SANITARIA, CONFECCIONADO EM |           0|          69|          69|
+| 138.450|APONTADOR PARA LAPIS Nº 02, COM DEPOSITO, FABRICADO EM |           0|      13.510|      13.510|
+|  33.609|ARAME DE ACO CARBONO GALVANIZADO - BWG N° 10 (3,40 MM) |           0|         145|         145|
+|  33.612|ARAME DE ACO CARBONO GALVANIZADO - BWG N° 16 (1,65 MM) |           0|         325|         325|
+|  33.623|ARAME DE ACO CARBONO RECOZIDO (LISO) - BWG N° 18 (1,24 |           0|         408|         408|
+| 104.911|ARAME PARA SOLDA MIG/MAG COM DIAMETRO DE 0,8 MM.       |           0|          95|          95|
+|  54.032|ARRUELA LISA 1/4"                                      |           0|      22.466|      22.466|
+|  54.029|ARRUELA LISA 5/16                                      |           0|       2.115|       2.115|
+|  88.849|ARRUELA LISA DE ACO DE 3/16"                           |           0|         563|         563|
+|  64.466|ARRUELA LISA DE ACO DE 3/8"                            |           0|       5.067|       5.067|
+|  26.506|ASSENTO EM MADEIRA  REVESTIDO C/ LAMINADO MELAMINICO 10|           0|         750|         750|
+| 144.153|ASSENTO SANITARIO UNIVERSAL ADULTO, OVALADO, COR BRANCA|           0|         373|         373|
+| 137.798|AVENTAL DE SEGURANCA CONFECCIONADO EM RASPA, TIRAS EM R|           0|          18|          18|
+| 136.877|AVENTAL DE SEGURANCA CONFECCIONADO EM TECIDO SINTETICO |           0|          13|          13|
+|  63.991|BALDINHO DE PRAIA EM PLASTICO - COLORIDO, ATOXICO, COM |           0|       3.648|       3.648|
+|  98.734|BANDEIRA DA CIDADE - 1,12 X 1,60 M, , MODELO BORDADO, C|           0|          36|          36|
+|  98.732|BANDEIRA DO BRASIL - 1,12 X 1,60 M, MODELO BORDADO, CON|           0|          55|          55|
+|  98.733|BANDEIRA DO ESTADO DE SAO PAULO - 1,12 X 1,60 M, MODELO|           0|          41|          41|
+| 123.618|BARRA CHATA DE ALUMINIO 3/4" X 1/8" - BARRA COM 06 METR|           0|         999|         999|
+|  88.856|BARRA DE FERRO TEE 1 X 1/8 - BARRA COM 06 METROS       |           0|         450|         450|
+|  59.882|BARRA/FIO REDONDO DE ACO CA 50 P/CONSTRUCAO NBR 7480 - |           0|       1.986|       1.986|
+|  59.942|BARRA/FIO REDONDO DE ACO CA 50 P/CONSTRUCAO NBR 7480 - |           0|         508|         508|
+|  64.604|BARRA/FIO REDONDO PARA CONSTRUCAO, DE ACO CA50 - 1/4"  |           0|       1.361|       1.361|
+|  64.605|BARRA/FIO REDONDO PARA CONSTRUCAO, DE ACO CA50 - 3/16" |           0|       1.020|       1.020|
+|  80.300|BATENTE DE GARAPEIRA 0,92 X 2,10 M                     |           0|          54|          54|
+|  34.801|BLOCO DE CONCRETO - 10 X 20 X 40 CM                    |           0|       2.439|       2.439|
+|  24.371|BLOCO DE CONCRETO - 15 X 20 X 40 CM                    |           0|      19.274|      19.274|
+|  32.534|BLOCO DE CONCRETO - 20 X 20 X 40 CM                    |           0|       4.399|       4.399|
+|  77.819|BOBINA DE SACO PLASTICO PICOTADO PARA EMBALAGEM - MED. |           0|       3.044|       3.044|
+| 138.451|BORRACHA BRANCA COMUM NUMERO 20 (SEM CINTA), CONFECCION|           0|      53.521|      53.521|
+| 136.823|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|          51|          51|
+| 136.824|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|          11|          11|
+| 136.825|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|           2|           2|
+| 136.826|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|          15|          15|
+| 136.829|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|           5|           5|
+|  20.144|BROCA DE ACO RAPIDO HELICOIDAL DE 1/4" C/ HASTE CILINDR|           0|          47|          47|
+|  20.034|BROCA DE ACO RAPIDO HELICOIDAL DE 3/16" COM HASTE CILIN|           0|         241|         241|
+|  20.035|BROCA DE ACO RAPIDO HELICOIDAL DE 3/32" COM HASTE CILIN|           0|         849|         849|
+|  20.037|BROCA DE ACO RAPIDO HELICOIDAL DE 3/8" COM HASTE CILIND|           0|         148|         148|
+|  20.104|BROCA DE ACO RAPIDO HELICOIDAL DE 5/16" COM HASTE CILIN|           0|         284|         284|
+|  20.106|BROCA DE ACO RAPIDO HELICOIDAL DE 5/32" COM HASTE CILIN|           0|         518|         518|
+|  19.871|BROCA DE WIDIA 1/4"                                    |           0|          95|          95|
+|  19.882|BROCA DE WIDIA 3/8"                                    |           0|         224|         224|
+|  19.883|BROCA DE WIDIA 5/16"                                   |           0|         547|         547|
+|  99.788|BUCHA C/ARRUELA EM ZAMAK P/ELETRODUTO - DIAMETRO 1 1/2"|           0|         150|         150|
+|  13.178|BUCHA DE FIXACAO - N° 06 DE PLASTICO                   |           0|       1.950|       1.950|
+|  29.293|BUCHA DE FIXACAO N° 10 - DE NYLON                      |           0|       5.000|       5.000|
+|  13.179|BUCHA DE FIXACAO N° 8 DE PLASTICO                      |           0|       9.557|       9.557|
+| 134.568|BUCHA DE FIXACAO UNIVERSAL Nº 10 DE NYLON PARA BASES OC|           0|       6.706|       6.706|
+| 134.567|BUCHA DE FIXACAO UNIVERSAL Nº 8 DE NYLON PARA BASES OCA|           0|      14.107|      14.107|
+|  82.452|BUCHA DE REDUCAO EM LATAO 3/4 X 1/2                    |           0|          10|          10|
+| 107.401|BUCHA DE REDUCAO EM PVC RIGIDO SOLDAVEL DE 4" X 2" - ES|           0|         201|         201|
+| 133.366|BUCHA PARA GESSO ACARTONADO (DRYWALL)                  |           0|      28.282|      28.282|
+| 140.028|CABO (FLEXIVEL), ENCORDOAMENTO CLASSE 5, SECAO 1,5 MM| |           0|         843|         843|
+| 140.047|CABO (FLEXIVEL), ENCORDOAMENTO CLASSE 5, SECAO 120,0 MM|           0|          29|          29|
+| 140.032|CABO (FLEXIVEL), ENCORDOAMENTO CLASSE 5, SECAO 2,5 MM| |           0|          44|          44|
+| 140.030|CABO (FLEXIVEL), ENCORDOAMENTO CLASSE 5, SECAO 2,5 MM| |           0|          60|          60|
+| 140.033|CABO (FLEXIVEL), ENCORDOAMENTO CLASSE 5, SECAO 4,00 MM||           0|         235|         235|
+| 140.035|CABO (FLEXIVEL), ENCORDOAMENTO CLASSE 5, SECAO 4,00 MM||           0|          11|          11|
+| 110.889|CABO DE COBRE FLEXIVEL BITOLA 150 MM|,  0,6/1 KV ISOLAC|           0|          80|          80|
+| 123.370|CABO DE COBRE FLEXIVEL BITOLA 185 MM2 , ISOLACAO 0,6/1 |           0|          49|          49|
+| 114.976|CABO DE COBRE FLEXIVEL BITOLA 240 MM2 ISOLACAO 0,6/1KV |           0|         634|         634|
+| 129.960|CABO DE COBRE FLEXIVEL BITOLA 240MM|, 750 V, ISOLACAO D|           0|         240|         240|
+| 123.372|CABO DE COBRE FLEXIVEL BITOLA 95 MM2 , ISOLACAO 0,6/1 K|           0|         651|         651|
+| 132.229|CABO DE COBRE FLEXIVEL, BITOLA 50MM2, 0,6/1 KV, ISOLACA|           0|         961|         961|
+| 140.049|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 10,00 MM| |           0|         496|         496|
+| 140.050|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 10,00 MM| |           0|         985|         985|
+| 140.061|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 120,00 MM||           0|         171|         171|
+| 140.051|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 16,00 MM| |           0|       1.428|       1.428|
+| 140.242|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 25,00 MM| |           0|         933|         933|
+| 140.056|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 35,00 MM| |           0|       1.635|       1.635|
+| 140.055|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 35,00 MM| |           0|       5.710|       5.710|
+| 140.054|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 35,00 MM| |           0|         707|         707|
+| 140.057|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 50,00 MM| |           0|         474|         474|
+| 140.126|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 50,00 MM| |           0|         891|         891|
+| 140.058|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 70,00 MM| |           0|         272|         272|
+| 140.059|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 70,00 MM| |           0|         499|         499|
+| 140.060|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 95,00 MM| |           0|         557|         557|
+| 140.125|CABO FLEXIVEL, ENCORDOAMENTO CLASSE 5, SECAO 95,00 MM| |           0|         550|         550|
+| 136.564|CABO UTP 23 AWG X 4 PARES CATEGORIA 6,CM               |           0|      13.115|      13.115|
+|  13.180|CADEADO DE LATAO - 30 MM                               |           0|         298|         298|
+|  17.704|CADEADO DE LATAO - 40 MM                               |           0|         197|         197|
+|  13.181|CADEADO DE LATAO - 50 MM                               |           0|         258|         258|
+| 138.453|CADERNO BROCHURA, 96 FOLHAS, FORMATO: 200MM X 275MM (VA|           0|      32.475|      32.475|
+| 138.454|CADERNO DE DESENHO ESPIRAL, 96 FOLHAS, SEM PAUTA, FORMA|           0|      10.549|      10.549|
+| 138.456|CADERNO ESPIRAL CAPA DURA 1/4 96 FLS, FORMATO: 140MM X |           0|       5.646|       5.646|
+| 138.458|CADERNO ESPIRAL UNIVERSITARIO 1 MATERIA, 96 FOLHAS FORM|           0|       7.093|       7.093|
+| 138.457|CADERNO ESPIRAL UNIVERSITARIO 10 MATERIAS, 200 FOLHAS, |           0|       1.488|       1.488|
+|  10.719|CAFE TORRADO E MOIDO - PT C/ 500 G - EMBALAGEM TIJOLINH|           0|       2.984|       2.984|
+| 103.142|CAIXA D'AGUA EM POLIETILENO, COM TAMPA - CAPACIDADE 1.0|           0|           5|           5|
+|  17.426|CAIXA DE DESCARGA COM CORPO PLASTICO (ACOMPANHA ENGATE |           0|          18|          18|
+| 113.634|CAIXA DE PASSAGEM EM CHAPA METALICA DE SOBREPOR        |           0|          63|          63|
+|  12.971|CAIXA DE PASSAGEM RETANGULAR 2 X 4 - EM PVC            |           0|         401|         401|
+|  13.768|CAIXA PARA ARQUIVO MORTO EM POLIONDA                   |           0|         286|         286|
+| 117.734|CAIXA PLASTICA DE SOBREPOR COM TAMPA - MEDIDAS: 23 X 17|           0|         114|         114|
+|  13.092|CAIXA SIFONADA REDONDA EM PVC RIGIDO DE 100 X 100 X 50 |           0|         180|         180|
+|  17.422|CAIXA SIFONADA REDONDA EM PVC RIGIDO DE 100 X 150 X 50 |           0|          57|          57|
+|  26.282|CAIXILHO DE FERRO PERFILADO - DE CORRER - 1,20 X 2,00 M|           0|          19|          19|
+|  34.214|CAIXILHO DE FERRO PERFILADO DE CORRER, S/ GRADE - MEDID|           0|          21|          21|
+|  52.946|CAIXILHO DE FERRO PERFILADO, BASCULANTE - MEDIDAS: 0,80|           0|          34|          34|
+|  12.763|CAL HIDRATADA - SACO COM 20 KG                         |           0|         988|         988|
+| 127.106|CALCA DE BRIM N° 36, CONFECCIONADA EM TECIDO MISTO 67% |           0|          10|          10|
+| 127.105|CALCA DE BRIM N° 38, CONFECCIONADA EM TECIDO MISTO 67% |           0|          10|          10|
+| 105.106|CALCA DE BRIM N° 40, CONFECCIONADA EM TECIDO MISTO 67% |           0|          13|          13|
+| 105.107|CALCA DE BRIM N° 42, CONFECCIONADA EM TECIDO MISTO 67% |           0|           8|           8|
+| 105.108|CALCA DE BRIM N° 44, CONFECCIONADA EM TECIDO MISTO 67% |           0|          13|          13|
+| 105.110|CALCA DE BRIM N° 48, CONFECCIONADA EM TECIDO MISTO 67% |           0|          12|          12|
+| 127.107|CALCA DE BRIM N° 50, CONFECCIONADA EM TECIDO MISTO 67% |           0|          14|          14|
+| 105.112|CALCA DE BRIM N° 52, CONFECCIONADA EM TECIDO MISTO 67% |           0|           4|           4|
+| 105.704|CALCA DE BRIM N° 56, CONFECCIONADA EM TECIDO MISTO 67% |           0|          20|          20|
+| 106.914|CALCA DE BRIM, N° 38, CONFECCIONADA EM TECIDO 100% ALGO|           0|           3|           3|
+| 106.916|CALCA DE BRIM, N° 42, CONFECCIONADA EM TECIDO 100% ALGO|           0|           8|           8|
+| 106.918|CALCA DE BRIM, N° 46, CONFECCIONADA EM TECIDO 100% ALGO|           0|           6|           6|
+| 106.919|CALCA DE BRIM, N° 48, CONFECCIONADA EM TECIDO 100% ALGO|           0|           1|           1|
+| 135.013|CALCADO DE SEGURANCA, TIPO BOTINA - Nº 39              |           0|           1|           1|
+| 136.674|CAMISA DE BRIM N° 2, CONFECCIONADA EM TECIDO 100% ALGOD|           0|           6|           6|
+| 105.113|CAMISA DE BRIM, N° 1, CONFECCIONADA EM TECIDO 100% ALGO|           0|           5|           5|
+| 106.909|CAMISA DE BRIM, N° 2, CONFECCIONADA EM TECIDO 100% ALGO|           0|           1|           1|
+| 105.114|CAMISA DE BRIM, N° 2, CONFECCIONADA EM TECIDO 100% ALGO|           0|          39|          39|
+| 106.910|CAMISA DE BRIM, N° 3, CONFECCIONADA EM TECIDO 100% ALGO|           0|           7|           7|
+| 105.115|CAMISA DE BRIM, N° 3, CONFECCIONADA EM TECIDO 100% ALGO|           0|          24|          24|
+| 106.911|CAMISA DE BRIM, N° 4, CONFECCIONADA EM TECIDO 100% ALGO|           0|           6|           6|
+| 105.709|CAMISA DE BRIM, N° 7, CONFECCIONADA EM TECIDO 100% ALGO|           0|          12|          12|
+| 138.459|CANETA ESFEROGRAFICA AZUL, CORPO SEXTAVADO TRANSPARENTE|           0|      36.881|      36.881|
+| 138.460|CANETA ESFEROGRAFICA VERMELHA, CORPO SEXTAVADO TRANSPAR|           0|       1.856|       1.856|
+| 132.646|CANETA HIDROGRAFICA JUMBO COM 12 CORES, PONTA GROSSA, T|           0|       5.672|       5.672|
+| 138.461|CANETA HIDROGRAFICA PONTA FINA/MEDIA, ATOXICA, ESTOJO C|           0|       4.972|       4.972|
+|  11.418|CANETA P/ RETROPROJETOR - PRETA, PONTA 2 MM            |           0|       1.449|       1.449|
+|  11.509|CANETA P/ RETROPROJETOR - VERMELHA, PONTA 2 MM         |           0|       2.933|       2.933|
+|  70.967|CANO DE ALUMINIO P/ CHUVEIRO - 40 CM                   |           0|          39|          39|
+|  59.018|CANTONEIRA DE FERRO - 1.1/2" X 1/8" BARRA COM 06 MET   |           0|         732|         732|
+|  64.607|CANTONEIRA DE FERRO - BARRA COM 6 M - 1" X 1/8"        |           0|       1.236|       1.236|
+|  64.609|CANTONEIRA DE FERRO - BARRA COM 6 M - 3/4" X 1/8"      |           0|         435|         435|
+|  61.046|CANTONEIRA DE FERRO 2" X 1/8" - BARRA COM 06 METROS    |           0|         496|         496|
+| 116.466|CANTONEIRA EM ACO PARA FIXACAO DE BALS MEDINDO 47 MM X |           0|       2.339|       2.339|
+|  35.256|CANTONEIRA EM ALUMINIO - 10 MM DE VAO - BR C/ 3 METROS |           0|         157|         157|
+| 128.229|CAP DE PVC MARROM PARA AGUA DE 50 MM  X  1 1/2" - DE AC|           0|         108|         108|
+|  77.110|CAP EM PVC DE 1 PARA AGUA MARROM                       |           0|         228|         228|
+|  77.109|CAP EM PVC DE 3/4 PARA AGUA MARROM                     |           0|         181|         181|
+|  79.688|CAPA EM POLIPROPILENO, TAMANHO A4, 0,30 MM DE ESPESSURA|           0|      17.737|      17.737|
+|  79.687|CAPA EM POLIPROPILENO, TAMANHO A4, 0,30 MM DE ESPESSURA|           0|      11.982|      11.982|
+| 136.860|CAPACETE DE SEGURANCA CLASSE B, TIPO II (ABA FRONTAL), |           0|           9|           9|
+|  24.219|CAPACHO DE FIBRA DE COCO - 0,40 X 0,60 M               |           0|         387|         387|
+| 132.799|CAPUZ OU BALACLAVA DE SEGURANCA MODELO ARABE, CONFECCIO|           0|           6|           6|
+|  23.687|CARTOLINA - AZUL CLARO - 50 X 66 CM - 180 G/M2         |           0|       6.899|       6.899|
+|  12.623|CARTOLINA - BRANCA  - 50 X 66 CM - 180 G/M2            |           0|      28.187|      28.187|
+|  23.692|CARTOLINA - ROSA - 50 X 66 CM - 180 G/M2               |           0|      10.439|      10.439|
+|  47.447|CARTOLINA - VERDE CLARO - 50 X 66 CM - GRAMATURA 180G/M|           0|      10.908|      10.908|
+| 133.845|CARTOLINA DUPLA FACE / COLOR SET LARANJA - 48 X 66 CM  |           0|       1.230|       1.230|
+| 133.849|CARTOLINA DUPLA FACE / COLOR SET VERDE ESCURO - 48 X 66|           0|         735|         735|
+| 127.664|CHA DE ERVA MATE TOSTADO - CAIXA COM 250 GR            |           0|       3.053|       3.053|
+|  64.610|CHAPA DE ACO CARBONO GALVANIZADO ZINCADO N. 24 - ESP = |           0|         806|         806|
+|  20.135|CHAPA DE ACO CARBONO GALVANIZADO ZINCADO N°22 ESP=0,80 |           0|         140|         140|
+| 115.060|CHAPA DE ACO INOX, BLANQUE: 430, ESPESSURA: 1,5MM, COMP|           0|          37|          37|
+| 109.944|CHAPA DE LAMINADO MELAMINICO  PARA LOUSA LISA QUADRICUL|           0|         110|         110|
+|  26.215|CHAPA DE MADEIRA COMPENSADA NAVAL C/ 2,20 X 1,60 M ESP.|           0|          20|          20|
+|  76.583|CHAPA DE MADEIRA COMPENSADO LAMINADO DE VIROLA - MEDIDA|           0|         190|         190|
+|  16.363|CHAPA DE MADEIRA RESINADA C/ 2,20 X 1,10 M ESP. 10,0 MM|           0|          39|          39|
+|  16.365|CHAPA DE MADEIRA RESINADA C/ 2,20 X 1,10 M ESP. 15,0 MM|           0|         509|         509|
+| 119.621|CHAPA EM MDF ALTO BRILHO - MEDIDAS: 2,75 X 1,86 M X 06 |           0|         100|         100|
+| 119.554|CHAPA EM MDF ALTO BRILHO - MEDIDAS: 2,75 X 1,86 M X 15 |           0|         146|         146|
+| 126.044|CHAPA EM MDF ULTRA TX, BRANCO, DUAS FACES COM PROTECAO |           0|         160|         160|
+|  75.334|CHAPA EM MDF, BRANCO, 02 FACES - MED. 2,75 M X 1,83 M X|           0|         383|         383|
+|  75.324|CHAPA EM MDF, CRU - MED. 2,75 M X 1,83 M X 09 MM       |           0|         127|         127|
+|  45.637|CHAVE BOIA INFERIOR 15 A (CONTROLE DE NIVEL AUTOMATICO)|           0|         787|         787|
+| 106.546|CHUMBADOR CBA   5/16"  X  3.1/4"                       |           0|         931|         931|
+| 106.544|CHUMBADOR CBA  5/16" X 2.1/4"                          |           0|       2.000|       2.000|
+|  50.797|CHUVEIRO ELETRICO AUTOMATICO - CORPO EM PLASTICO 220V/5|           0|         108|         108|
+| 100.362|CIMENTO COLA AC3 - SACO C/20 KG                        |           0|       2.665|       2.665|
+|  14.662|CIMENTO COMUM CPII-32 - SACO C/ 50KG - O MATERIAL DEVER|           0|         267|         267|
+| 130.024|COADOR DE PAPEL P/ CAFE N° 103 - CAIXA COM 30 UNIDADES |           0|         467|         467|
+|  63.839|COLA DE CONTATO P/ LAMINADO MELAMINICO - 2,8 KG        |           0|         100|         100|
+|  13.186|COLA P/ MADEIRA - 1 LITRO                              |           0|          66|          66|
+|  13.063|COLA P/ TUBO PVC - BISNAGA C/ 75 GR                    |           0|       1.243|       1.243|
+| 106.414|CONDULETE EM LIGA DE ALUMINIO                          |           0|       1.912|       1.912|
+| 106.408|CONDULETE EM LIGA DE ALUMINIO FUNDIDO                  |           0|          54|          54|
+|  15.271|CONECTOR A PRESSAO TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2|           0|         263|         263|
+|  15.464|CONECTOR A PRESSAO TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2|           0|         185|         185|
+| 128.819|CONECTOR DE ALUMINIO PARA CONDULETE MULTIPLO DE 1.1/2" |           0|         251|         251|
+| 128.818|CONECTOR DE ALUMINIO PARA CONDULETE MULTIPLO DE 3/4"   |           0|       1.795|       1.795|
+| 125.269|CONECTOR RJ-45 MACHO, PARA CABO UTP CATEGORIA 5E       |           0|       2.965|       2.965|
+|  15.267|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|          23|          23|
+|  77.493|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|         131|         131|
+|  15.272|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|         100|         100|
+|  15.465|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|         135|         135|
+|  15.466|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|         192|         192|
+|  15.469|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|          75|          75|
+|  15.473|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/ 2 CABOS DE |           0|          74|          74|
+|  15.467|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/2 CABOS DE C|           0|          37|          37|
+|  15.475|CONECTOR TIPO SPLIT BOLT-SIMPLES/SIMPLES P/2 CABOS DE C|           0|         132|         132|
+|  80.385|CONJUNTO DE CRUZETA, MOLA E PARAFUSO PARA VALVULA DE DE|           0|          20|          20|
+| 141.430|CONJUNTO DE DUCHA HIGIENICA COM REGISTRO, COMPOSTO POR |           0|          70|          70|
+|  23.676|CONJUNTO DE VEDACAO PLASTICA P/ TELHA 6 MM             |           0|       1.931|       1.931|
+| 107.790|CONTROLADOR ROTATIVO DE VELOCIDADE COM CHAVE PARA VENTI|           0|         141|         141|
+|  12.654|COPO PLASTICO DESCARTAVEL - 180 ML - PT C/ 100 UN (AGUA|           0|      62.448|      62.448|
+|  12.652|COPO PLASTICO DESCARTAVEL - 50 ML - PT C/ 100 UNID (CAF|           0|       2.640|       2.640|
+| 134.569|CORREDICA TELESCOPICA ZINCADA PARA GAVETA FZ 500 MM - C|           0|         100|         100|
+|  11.448|CORRETIVO LIQUIDO A BASE DE AGUA - FR C/ 18 ML         |           0|         504|         504|
+|  54.586|COTOVELO 45 GRAUS EM PVC - RIGIDO SOLDAVEL - 6"- (150 M|           0|          10|          10|
+|  63.277|COTOVELO 45 GRAUS EM PVC BRANCO - 50 MM, DE ACORDO COM |           0|         308|         308|
+| 135.299|COTOVELO 45° DE PVC MARROM  - 1" PARA AGUA, DE ACORDO C|           0|          45|          45|
+| 135.300|COTOVELO 45°, EM PVC SOLDAVEL PARA AGUA, MARROM, 1 1/2"|           0|         323|         323|
+|  54.587|COTOVELO 90 GRAUS EM PVC - RIGIDO SOLDAVEL - 6"- (150 M|           0|          27|          27|
+|  12.884|COTOVELO 90 GRAUS EM PVC RIGIDO SOLDAVEL DE 4" (ESGOTO)|           0|          88|          88|
+|  38.534|COTOVELO 90 GRAUS EM PVC RIGIDO SOLDAVEL MARROM  - 2". |           0|         102|         102|
+|  12.886|COTOVELO 90 GRAUS EM PVC RIGIDO SOLDAVEL MARROM- 1.1/2"|           0|         405|         405|
+|  12.894|COTOVELO 90 GRAUS EM PVC RIGIDO SOLDAVEL MARROM DE 3/4"|           0|       3.801|       3.801|
+|  12.891|COTOVELO 90 GRAUS EM PVC RIGIDO SOLDAVEL MARROM DE 32 M|           0|         154|         154|
+| 135.302|COTOVELO 90° DE REDUCAO DE PVC SOLDAVEL X ROSCA AZUL CO|           0|         593|         593|
+|  12.881|COTOVELO 90° GRAUS EM PVC RIGIDO SOLDAVEL DE 2" (ESGOTO|           0|         466|         466|
+| 135.301|COTOVELO DE 45°, EM PVC BRANCO, PARA ESGOTO, DE 4" (100|           0|         345|         345|
+|  25.523|COTOVELO EM PVC AZUL-COLA E ROSCA DE 3/4"              |           0|         692|         692|
+|  50.475|CUMEEIRA DE BARRO COZIDO                               |           0|         230|         230|
+|  67.376|CUMEEIRA DE FIBRA SINTETICA 10 GRAUS PARA TELHA ONDULAD|           0|         178|         178|
+|  67.375|CUMEEIRA DE FIBRA SINTETICA 30 GRAUS PARA TELHA ONDULAD|           0|         103|         103|
+| 114.299|CUMEEIRA NORMAL ( PARA TELHA DE CONCRETO ), INCLANACAO |           0|         174|         174|
+|  14.784|CURVA 90 GRAUS DE ACO CARBONO GALVANIZADO P/ ELETRODUTO|           0|          50|          50|
+| 102.776|CURVA LONGA DE ACO P/ELETRODUTO GALVANIZADO A FOGO, 90º|           0|          40|          40|
+| 102.922|DETERGENTE LIQUIDO,  NEUTRO - FRASCO C/500ML           |           0|         826|         826|
+| 138.475|DISCO DE CORTE 14" X 1/8" X 1" DE ACORDO COM AS NORMAS |           0|         155|         155|
+| 109.986|DISCO DE CORTE 14" X 3/16" X 1"                        |           0|          98|          98|
+| 122.304|DISCO DE CORTE 4 1/2" DE DIAMETRO EXTERNO, 01 MM DE ESP|           0|       3.000|       3.000|
+| 122.305|DISCO DE CORTE 4 1/2" DE DIAMETRO EXTERNO, 1/8" DE ESPE|           0|         426|         426|
+|  81.455|DISCO DE CORTE 7" X 1/8" X 7/8" (DIAM.EXT X ESPESSURA X|           0|          81|          81|
+|  80.387|DISCO DE CORTE 9" X 1/8" X 7/8"                        |           0|         130|         130|
+|  52.129|DISCO DE CORTE PARA POLICORTE - MED. 10" DIAMETRO EXTER|           0|         455|         455|
+|  17.562|DISCO DE DESBASTE 7" X 1/4" X 7/8"                     |           0|         443|         443|
+|  64.634|DISCO DE LIXA N. 40 - 30 CM DE DIAMETRO - PARA LIXADEIR|           0|          89|          89|
+|  88.726|DISJUNTOR NORMA DIN CURVA C PADRAO, BIPOLAR, 10 AMPERES|           0|         130|         130|
+|  88.727|DISJUNTOR NORMA DIN CURVA C PADRAO, BIPOLAR, 20 AMPERES|           0|         218|         218|
+|  88.728|DISJUNTOR NORMA DIN CURVA C PADRAO, BIPOLAR, 32 AMPERES|           0|         186|         186|
+|  88.729|DISJUNTOR NORMA DIN CURVA C PADRAO, BIPOLAR, 40 AMPERES|           0|          17|          17|
+|  88.730|DISJUNTOR NORMA DIN CURVA C PADRAO, BIPOLAR, 50 AMPERES|           0|          18|          18|
+|  88.740|DISJUNTOR NORMA DIN CURVA C PADRAO, BIPOLAR, 63 AMPERES|           0|          74|          74|
+|  88.731|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 10 AMPERE|           0|          40|          40|
+|  88.746|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 100 AMPER|           0|          42|          42|
+|  88.747|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 125 AMPER|           0|           5|           5|
+|  88.732|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 20 AMPERE|           0|          24|          24|
+|  88.734|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 40 AMPERE|           0|          44|          44|
+|  88.735|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 50 AMPERE|           0|          91|          91|
+|  88.744|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 63 AMPERE|           0|          30|          30|
+|  88.745|DISJUNTOR NORMA DIN CURVA C PADRAO, TRIPOLAR, 80 AMPERE|           0|          17|          17|
+| 110.771|DISJUNTOR NORMA DIN, CURVA C PADRAO, BIPOLAR - 25 AMPER|           0|          30|          30|
+| 102.819|DISJUNTOR TRIPOLAR IN = 150A, TENSAO MINIMA DE OPERACAO|           0|           2|           2|
+| 129.962|DISJUNTOR TRIPOLAR IN 300 A, TENSAO MINIMA DE OPERACAO |           0|           7|           7|
+| 129.961|DISJUNTOR TRIPOLAR IN 350 A, TENSAO MINIMA DE OPERACAO |           0|           4|           4|
+| 101.891|DISPOSITIVO DE PROTECAO CONTRA SOBRETENSOES TRANSITORIA|           0|          23|          23|
+| 114.771|DISTRIBUIDOR GERAL PARA TELEFONIA                      |           0|         105|         105|
+| 114.772|DISTRIBUIDOR GERAL PARA TELEFONIA, COM VENEZIANAS, DE E|           0|          35|          35|
+|  13.197|DOBRADICA DE FERRO POLIDO 1.1/2"                       |           0|         269|         269|
+|  13.199|DOBRADICA DE FERRO POLIDO 2.1/2"                       |           0|          30|          30|
+| 136.553|DOBRADICA DE PRESSAO EM ACO, CURVA, COMPLETA, PARA ARMA|           0|       1.500|       1.500|
+|  17.132|ELASTICO - EMBALAGEM COM 100GR                         |           0|       1.439|       1.439|
+| 108.711|ELEMENTO FILTRANTE DE MICRO-FIBRA DE PP                |           0|         108|         108|
+| 102.723|ELETROCALHA LISA C/TAMPA C/FECHAMENTO POR PARAFUSO, GAL|           0|         245|         245|
+| 102.690|ELETROCALHA PERFURADA C/TAMPA C/FECHAMENTO POR PRESSAO,|           0|         412|         412|
+| 133.371|ELETRODO REVESTIDO PARA SOLDA 2,5 MM - NORMA AWS E-6013|           0|         220|         220|
+| 120.995|ELETRODUTO CORRUGADO 1" - COR: AMARELA                 |           0|          80|          80|
+| 129.991|ELETRODUTO CORRUGADO EM PEAD (POLIETILENO DE ALTA DENSI|           0|         324|         324|
+|  99.787|ELETRODUTO DE ACO CARBONO GALVANIZADO A FOGO - DIAMETRO|           0|          16|          16|
+|  60.889|ELETRODUTO DE FERRO GALVANIZADO - 3/4"                 |           0|         408|         408|
+|  13.009|ELETRODUTO FLEXIVEL CORRUGADO DE 3/4" - COR AMARELA    |           0|         456|         456|
+| 110.702|ELETRODUTO GALVANIZADO A FOGO - LEVE  1"               |           0|         136|         136|
+| 102.694|EMENDA INTERNA PERFURA, GALVANIZADA, P/ELETROCALHA - 20|           0|         215|         215|
+|  26.504|ENCOSTO EM MADEIRA  EM LAMINADO MELAMINICO 10MM LISO 30|           0|         750|         750|
+| 138.055|ENGATE DE PVC BRANCO FLEXIVEL DE 40 CM, COMPOSTO POR PO|           0|         100|         100|
+|  23.581|ENVELOPE BRANCO - OFICIO - 114 X 229 MM- GRAMATURA MINI|           0|      12.976|      12.976|
+|  84.878|ENVELOPE OURO TIPO SACO 80 X 115 MM- GRAMATURA MINIMA 8|           0|      50.966|      50.966|
+|  11.857|ENVELOPE PARDO TIPO SACO - 162 X 229MM - GRAMATURA MINI|           0|      20.140|      20.140|
+|  12.613|ENVELOPE PARDO TIPO SACO 240 X 340MM- GRAMATURA MINIMA |           0|      93.967|      93.967|
+| 132.407|ESPIRAL 25 MM DE PVC - PACOTE COM NO MINIMO 45 UNIDADES|           0|       2.247|       2.247|
+| 132.405|ESPIRAL 9 MM DE PVC - PACOTE COM 100 UNIDADES.         |           0|       2.248|       2.248|
+|  72.222|ESPIRAL N. 12 (12 MM) DE PVC - PACOTE COM 100 UNIDADES |           0|       1.582|       1.582|
+|  14.154|ESPONJA DE NYLON DUPLA FACE, LISO E ABRASIVA - MED: 110|           0|       3.297|       3.297|
+| 133.819|ESPUDE BRANCO DE BORRACHA DE 1.1/2" PARA BACIAS CONVENC|           0|         370|         370|
+| 133.788|ESQUADRO DE 45° - COR: TRANSPARENTE.                   |           0|         385|         385|
+| 133.790|ESQUADRO DE 60° - COR: TRANSPARENTE.                   |           0|       1.493|       1.493|
+| 140.933|ESTILETE LARGO COM LAMINA DE PRECISAO DE 18 MM, FABRICA|           0|         567|         567|
+|  29.296|ESTOPA BRANCA - PACOTE C/ 500 GR, NA EMBALAGEM DEVERA C|           0|         288|         288|
+|  11.072|EXTRATOR DE GRAMPOS - TIPO ESPATULA                    |           0|         314|         314|
+|  15.436|FECHADURA DE EMBUTIR C/ TAMBOR - EXTERNA               |           0|         497|         497|
+| 136.554|FECHADURA DE SOBREPOR PARA GAVETA, COM CILINDRO, MEDIND|           0|       2.000|       2.000|
+| 136.555|FECHADURA DE SOBREPOR PARA GAVETA, COM CILINDRO, MEDIND|           0|         750|         750|
+| 132.465|FECHO CHATO COM PORTA CADEADO ZINCADO 5" REFORCADO, COM|           0|          50|          50|
+|  77.786|FERRO "U" PENDURAL, MED. 40 MM DE LARGURA X 7 MM DE ESP|           0|          50|          50|
+|  64.625|FERRO CHATO - 1" X 1/4" - BARRA COM 06 METROS          |           0|         677|         677|
+|  64.626|FERRO CHATO - 1.1/2" X 1/4" - BARRA COM 06 METROS      |           0|       2.397|       2.397|
+|  64.860|FERRO CHATO 1 1/2" X 1/8" BARRA C/ 06 METROS           |           0|         106|         106|
+|  27.287|FERRO CHATO 1 X 1/ 8" BARRA C/ 06 METROS               |           0|       1.114|       1.114|
+|  87.348|FERRO CHATO 1/2" X 1/4" - BARRA C/ 06 METROS           |           0|         832|         832|
+|  64.861|FERRO CHATO 3/4" X 1/8" BARRA C/ 06 METROS             |           0|       1.790|       1.790|
+|  64.627|FERRO REDONDO - 1/2" - MECANICO - BARRA COM 06 METROS  |           0|       2.121|       2.121|
+|  64.817|FERRO REDONDO 3/8" MECANICO, BARRA C/ 06 METROS        |           0|          86|          86|
+|  60.517|FERRO REDONDO DE 5/8" - BARRA COM 06 METROS (FERRO MECA|           0|       1.781|       1.781|
+|  53.813|FERRO TIPO U DE 2" X 1/8                               |           0|         234|         234|
+|  53.814|FERRO TIPO U DE 3" X 1/8" - BARRA COM 06 METROS        |           0|       1.159|       1.159|
+| 132.232|FERRO TIPO U DE 6" X 1/8" - BARRA COM 06 METROS        |           0|          64|          64|
+| 115.282|FILME DE POLIETILENO - MED. 500 MM LARGURA X 0,020 MM E|           0|       1.080|       1.080|
+| 135.303|FILTRO COM TAMPA E COPO EM POLIPROPILENO, VAZAO 1200 L/|           0|         106|         106|
+| 132.394|FITA ADESIVA COLORIDA, MEDINDO APROXIMADAMENTE 12MM X 1|           0|       2.790|       2.790|
+| 132.395|FITA ADESIVA COLORIDA, MEDINDO APROXIMADAMENTE 12MM X 1|           0|       2.592|       2.592|
+| 132.290|FITA ADESIVA COLORIDA, MEDINDO APROXIMADAMENTE 12MM X 1|           0|       2.474|       2.474|
+| 131.930|FITA ADESIVA DUPLA FACE, MEDINDO APROXIMADAMENTE 12MM X|           0|       8.272|       8.272|
+| 132.296|FITA ADESIVA TRANSPARENTE, MEDINDO APROXIMADAMENTE 19MM|           0|       3.019|       3.019|
+| 134.556|FITA DE BORDA CARVALHO MALVA OU SIMILAR, MEDINDO: 22 MM|           0|         580|         580|
+|  98.359|FITA DE BORDA EM PVC TEXTURIZADA, 22MM - ROLO COM 300 M|           0|          56|          56|
+| 128.782|FITA DE BORDO EM PVC, COR BRANCA FOSCA, MEDIDAS 35 X 0,|           0|          97|          97|
+|  13.064|FITA DE TEFLON P/ VEDACAO HIDRAULICA (VEDA ROSCA) - 18 |           0|         756|         756|
+|  14.754|FITA ISOLANTE 19 MM X 10 M DE AUTO FUSAO (ALTA TENSAO) |           0|          61|          61|
+|  14.921|FITA ISOLANTE 19 MM X 20 M                             |           0|         361|         361|
+| 132.751|FITA PET VIRGEM (ALTA RESISTENCIA) 16MM X 0,80MM, UTILI|           0|           3|           3|
+|  93.139|FITA PLASTICA P/ ISOLAMENTO DE TRAFEGO PRETA/AMARELA - |           0|         150|         150|
+|  42.566|FOLHA DE PORTA - EM IMBUIA - 0,92 X 2,10 M             |           0|          47|          47|
+|  78.307|FOLHA DE PORTA DE IMBUIA - MED. 1,02 X 2,10 M          |           0|          34|          34|
+|  50.591|FOLHA DE PORTA EM IMBUIA - MED: 0,72 X 2,10 M          |           0|          30|          30|
+|  49.033|FOLHA DE PORTA EM IMBUIA - MED: 0,82 X 2,10 M          |           0|          30|          30|
+|  56.519|FOLHA DE PORTA TIPO MEXICANA - MED.: 0,82 X 2,10 M     |           0|          38|          38|
+|  98.702|FORRO EM PVC BRANCO LISO, REGUA DE 6M DE COMPRIMENTO, 2|           0|       7.791|       7.791|
+| 141.253|FUNDO PARA GALVANIZADOS, LINHA PREMIUM, NA COR CINZA - |           0|         190|         190|
+| 102.728|GANCHO CURTO PARA PERFILADO                            |           0|         224|         224|
+| 138.462|GIZ DE CERA JUMBO, ATOXICO, ESTOJO COM NO MINIMO 12 COR|           0|       7.640|       7.640|
+| 132.299|GIZAO DE CERA REDONDO, ATOXICO, COM 6 CORES. DIMENSOES |           0|       2.283|       2.283|
+|  82.995|GONZO COM ABAS N. 3 (65MM)                             |           0|         300|         300|
+|  82.996|GONZO COM CHUMBADOR N. 3 (65MM)                        |           0|         480|         480|
+|  51.579|GRAMPEADOR GRANDE, TAMANHO 26/6                        |           0|         422|         422|
+|  17.136|GRAMPO 26/6 P/ GRAMPEADOR CX C/ 5000 UNIDADES          |           0|         377|         377|
+|  11.116|GRAMPO P/ PAPEL N°1 TIPO TRANCADO - CX COM 12 UNID     |           0|       1.315|       1.315|
+|  17.135|GRAMPO TRILHO P/ PASTA 80 MM                           |           0|         825|         825|
+| 102.588|GRELHA P/RALO EM INOX, 100MM (4")                      |           0|         350|         350|
+| 105.294|GRELHA REDONDA PARA RALO EM INOX, 6" COM DISPOSITIVO DE|           0|          75|          75|
+| 120.615|GUARNICAO PARA POLICARBONATO, REFERENCIA "GUA-030", CON|           0|       1.276|       1.276|
+|  67.939|GUARNICAO PARA PORTA 0,92 X 2,10 M                     |           0|           3|           3|
+|  31.555|HASTE DE ATERRAMENTO DE COBRE - 5/8" X 3,00 METROS     |           0|          74|          74|
+|  39.378|HASTE GALVANIZADA - 1/4" X 350 MM - P/ FIXACAO DE TELHA|           0|       3.962|       3.962|
+|  16.571|INSETICIDA AEROSOL A BASE DE AGUA FR C/ 300 ML         |           0|       2.828|       2.828|
+| 112.158|INTERRUPTOR 10A X 250V COM 1 TECLA PARALELA MAIS 1 TOMA|           0|         198|         198|
+| 112.159|INTERRUPTOR 10A X 250V COM 2 TECLAS PARALELAS MAIS 1 TO|           0|         306|         306|
+| 110.895|INTERRUPTOR 10A X 250V INTERNO C/ 01 TECLA PARALELA COM|           0|         193|         193|
+| 110.896|INTERRUPTOR 10A X 250V INTERNO C/ 03 TECLAS PARALELAS C|           0|          22|          22|
+| 119.180|INTERRUPTOR 10A/250V COM 2 TECLAS PARALELAS            |           0|         157|         157|
+| 108.393|INTERRUPTOR DIFERENCIAL RESIDUAL BIPOLAR               |           0|         161|         161|
+|  93.486|INTERRUPTOR DIFERENCIAL RESIDUAL TETRAPOLAR ELETROMECAN|           0|          87|          87|
+|  93.487|INTERRUPTOR DIFERENCIAL RESIDUAL TETRAPOLAR ELETROMECAN|           0|           7|           7|
+|  93.488|INTERRUPTOR DIFERENCIAL RESIDUAL TETRAPOLAR ELETROMECAN|           0|          17|          17|
+| 130.634|ISOPOR PARA FORRO, COM APLICACAO DE MASSA ACRILICA (IMP|           0|         752|         752|
+|  54.144|JUNCAO INTERNA "I" - 38 X 38 MM                        |           0|         326|         326|
+|  54.018|JUNCAO INTERNA "L"  38 X 38 MM                         |           0|         480|         480|
+| 104.665|KIT BARRAMENTO                                         |           0|         108|         108|
+| 113.238|KIT BARRAMENTO CONTENDO: BARRAMENTO TRIFASICO DE COBRE |           0|          48|          48|
+|  12.754|LA DE ACO - EMBALAGEM C/ 08 ESPONJAS.                  |           0|         311|         311|
+| 136.895|LAMPADA LED BULBO, BASE E27, POTENCIA MAXIMA 10W, TENSA|           0|          15|          15|
+| 136.896|LAMPADA LED BULBO, BASE E27, POTENCIA MAXIMA 20W, TENSA|           0|          27|          27|
+| 135.088|LAMPADA LED TUBULAR T8, FAIXA MINIMA DE TENSAO 100-240 |           0|         354|         354|
+| 132.300|LAPIS DE COR AQUARELAVEL, CAIXA COM 12 CORES, TINTAS AT|           0|       3.287|       3.287|
+| 135.297|LAPIS DE COR JUMBO, MODELO TRIANGULAR, EM 12 CORES.    |           0|       1.472|       1.472|
+| 138.463|LAPIS DE COR, SEXTAVADO, ESTOJO COM 24 CORES, APONTADOS|           0|      22.837|      22.837|
+| 138.464|LAPIS GRAFITE Nº 2 HB, SEXTAVADO, APONTADOS, CORPO FEIT|           0|      60.181|      60.181|
+| 131.926|LAPIS PRETO 6B, MEDINDO 175MM (VARIACAO DE +/-10MM) DE |           0|       9.434|       9.434|
+| 132.624|LAVATORIO SUSPENSO INFANTIL, NA COR BRANCA, MATERIAL EM|           0|          89|          89|
+|  10.359|LEITE EM PO INTEGRAL INSTANTANEO ENRIQUECIDO           |           0|         267|         267|
+|   4.680|LENCOL DESCARTAVEL 70 CM X 50 MT                       |           0|      21.196|      21.196|
+| 133.451|LIVRO DE ATA, CAPA DURA, COM 100 FOLHAS - MEDIDA: 206 X|           0|       2.195|       2.195|
+| 133.450|LIVRO DE ATA, CAPA DURA, COM 50 FOLHAS - MEDIDA: 206 X |           0|       3.073|       3.073|
+|  12.018|LIVRO P/ REGISTRO DE CORRESPONDENCIA - 100 FOLHAS - CAP|           0|       2.857|       2.857|
+|  60.973|LIXA CINTA DE PANO P/ MADEIRA - MEDIDAS: 610 X 75 MM / |           0|          50|          50|
+|  13.218|LIXA D'AGUA EM FOLHA 225 X 275 MM GRAO 100             |           0|         204|         204|
+|  17.662|LIXA D'AGUA EM FOLHA 225 X 275 MM GRAO 120             |           0|       1.410|       1.410|
+|  13.066|LIXA D'AGUA EM FOLHA 225 X 275 MM GRAO 150             |           0|         855|         855|
+|  13.087|LIXA D'AGUA EM FOLHA 225 X 275 MM GRAO 220             |           0|         222|         222|
+|  13.088|LIXA D'AGUA EM FOLHA 225 X 275 MM GRAO 320             |           0|          50|          50|
+|  35.555|LIXA DE PAPEL P/ MADEIRA EM FOLHA DE 225 X 275 MM - N° |           0|          63|          63|
+|  35.554|LIXA DE PAPEL P/ MADEIRA EM FOLHA DE 225 X 275 MM - N° |           0|          20|          20|
+|  35.550|LIXA DE PAPEL P/ MADEIRA EM FOLHA DE 225 X 275 MM - N°1|           0|          39|          39|
+|  17.698|LIXA P/ FERRO E METAIS EM FOLHA DE 200 X 275 MM - Nº 12|           0|         546|         546|
+|  13.101|LIXA P/ FERRO E METAIS EM FOLHA DE 225 X 275 MM N° 36  |           0|          85|          85|
+|  88.838|LIXA PARA PAREDE - 120                                 |           0|       2.384|       2.384|
+|  71.697|LIXA PARA PAREDE - 60                                  |           0|       1.894|       1.894|
+|  51.222|LUMINARIA FECHADA TIPO CALHA - P/ LAMPADA FLUORESCENTE |           0|          61|          61|
+|  15.167|LUMINARIA FECHADA TIPO CALHA P/ LAMPADA FLUORESCENTE 2 |           0|         290|         290|
+| 140.666|LUMINARIA HERMETICA DE SOBREPOR, PARA DUAS LAMPADAS LED|           0|          18|          18|
+| 138.554|LUMINARIA HIGH BAY, COM DRIVER INCORPORADO, VIDA UTIL M|           0|         248|         248|
+| 138.552|LUMINARIA PUBLICA, PARA POSTE, COM DRIVER INCORPORADO, |           0|         484|         484|
+| 138.553|LUMINARIA PUBLICA, PARA POSTE, COM DRIVER INCORPORADO, |           0|         660|         660|
+| 108.697|LUMINARIA TIPO ARANDELA,                               |           0|          37|          37|
+|  98.080|LUVA DE LATEX - TAMANHO G                              |           0|       2.328|       2.328|
+|  96.516|LUVA DE LATEX - TAMANHO M.                             |           0|       2.989|       2.989|
+|  83.838|LUVA DE LATEX PARA PROCEDIMENTO, TAM. M.               |           0|       3.775|       3.775|
+| 136.819|LUVA DE PROTECAO CONFECCIONADA EM VAQUETA, REFORCO ENTR|           0|         239|         239|
+|  12.950|LUVA DE PVC RIGIDO SOLDAVEL MARROM DE 1.1/2", DE ACORDO|           0|         221|         221|
+|  40.772|LUVA DE PVC RIGIDO SOLDAVEL MARROM DE 1.1/4", DE ACORDO|           0|         163|         163|
+|  12.948|LUVA DE PVC RIGIDO SOLDAVEL MARROM DE 2", DE ACORDO COM|           0|          40|          40|
+|  12.956|LUVA DE PVC RIGIDO SOLDAVEL MARROM DE 3/4". A MARCA DEV|           0|         868|         868|
+|  61.201|LUVA DE PVC SOLDAVEL / ROSQUEAVEL AZUL - 3/4"          |           0|       1.240|       1.240|
+|  59.400|LUVA DE PVC SOLDAVEL DE 32 MM - 1" - MARROM. A MARCA DE|           0|         138|         138|
+| 136.855|LUVA DE RASPA CANO MEDIO - LUVA DE SEGURANCA, CONFECCIO|           0|          80|          80|
+| 136.858|LUVA DE RASPA DORSO EM LONA CANO LONGO - LUVA DE SEGURA|           0|          28|          28|
+| 125.173|LUVA DE REDUCAO DE ESGOTO 2" X 1.1/2                   |           0|         185|         185|
+|  52.994|LUVA DE REDUCAO EM PVC MARROM DE 1.1/2" X 1.1/4". A MAR|           0|         164|         164|
+|  64.635|LUVA DE REDUCAO EM PVC RIGIDO - BRANCA - 150 X 100 MM -|           0|          70|          70|
+|  64.636|LUVA DE REDUCAO EM PVC RIGIDO - MARROM - SOLDAVEL - 1.1|           0|          41|          41|
+|  44.789|LUVA DE REDUCAO EM PVC RIGIDO SOLDAVEL MARROM DE 2" X 1|           0|         123|         123|
+|  12.922|LUVA DE REDUCAO EM PVC RIGIDO SOLDAVEL MARROM DE 32 X 2|           0|         151|         151|
+| 143.099|LUVA DE SEGURANCA PARA PROCEDIMENTO NAO CIRURGICO, CONF|           0|       1.495|       1.495|
+|  74.979|LUVA DESLIZANTE EM PVC COM ANEL - MARROM - 1 1/2"      |           0|         169|         169|
+|  74.976|LUVA DESLIZANTE EM PVC COM ANEL - MARROM - 3/4"        |           0|         426|         426|
+|  31.580|LUVA EM ACO CARBONO GALVANIZADO P/ ELETRODUTO 2" - ROSQ|           0|          88|          88|
+| 136.853|LUVA PIGMENTADA - LUVA DE PROTECAO CONFECCIONADA EM FIB|           0|          55|          55|
+|  49.695|MACANETA ALAVANCA CROMADA P/ PORTA DE MADEIRA          |           0|         100|         100|
+| 137.800|MANGOTE DE PROTECAO CONFECCIONADO EM RASPA, TIRAS EM RA|           0|          59|          59|
+| 123.710|MANGUEIRA EM PVC TRANCADA, REFORCADA, CRISTAL , ROLO DE|           0|          73|          73|
+| 127.384|MANTA ASFALTICA, AUTO ADESIVA - MEDIDAS: 10CM DE LARGUR|           0|         258|         258|
+| 132.655|MARCADOR DE QUADRO BRANCO, PONTA DE 04 MM (MINIMO) REDO|           0|       1.384|       1.384|
+|  10.412|MARGARINA VEGETAL COM SAL - LIPIDEOS TOTAIS: MINIMO 75%|           0|          44|          44|
+| 136.876|MASCARA DE SOLDA DE SEGURANCA TIPO ESCURECIMENTO AUTOMA|           0|           1|           1|
+|  23.016|MASSA CORRIDA ACRILICA - LT COM 18 L                   |           0|          50|          50|
+|  63.382|MASSA PARA CALAFETAR A BASE DE POLIBUTENO EM FILETES - |           0|         214|         214|
+| 135.701|MINIDICIONARIO DE LINGUA PORTUGUESA - COM MAIS DE 30 MI|           0|       2.006|       2.006|
+| 135.304|NIPLE DUPLO DE REDUCAO ROSQUEAVEL 3/4 X 1/2 EM LATAO   |           0|         722|         722|
+| 136.854|OCULOS DE SEGURANCA CONTRA IMPACTOS- OCULOS DE SEGURANC|           0|          66|          66|
+| 131.482|PA DE LIXO, CORPO EM POLIPROPILENO, CABO LONGO         |           0|          94|          94|
+| 133.021|PANO DE CHAO, MEDIDAS: 45 X 75 CM (VARIACAO +/- 5 CM), |           0|          85|          85|
+|  12.659|PANO P/ COPA ATOALHADO                                 |           0|          79|          79|
+| 105.259|PAPEL ADESIVO P/ ENCADERNACAO (TIPO CONTACT) - 0,50 M D|           0|         974|         974|
+|  15.530|PAPEL ALMACO C/ PAUTA                                  |           0|      22.838|      22.838|
+| 124.261|PAPEL CAMURCA - 60 X 40 CM - AZUL CLARO                |           0|         310|         310|
+|  23.989|PAPEL CREPOM - RL C/ 48 X 200 CM - LARANJA             |           0|         561|         561|
+|  23.993|PAPEL CREPOM - RL C/ 48 X 200 CM - ROSA                |           0|       1.315|       1.315|
+| 130.624|PAPEL CRIATIVO FLUORESCENTE, TIPO LUMIPAPER, 5 CORES   |           0|       6.998|       6.998|
+|  17.454|PAPEL ESPELHO - 65 X 50 CM - ROSA                      |           0|       1.451|       1.451|
+| 125.641|PAPEL HIGIENICO 30 M X 10 CM, CLASSE 01, FOLHA DUPLA, G|           0|       7.202|       7.202|
+| 119.595|PAPEL HIGIENICO BRANCO, ROLO COM 300 METROS, FOLHA SIMP|           0|         311|         311|
+| 136.941|PAPEL KRAFT MONOLUCIDO EM BOBINA, COR PARDA, MEDIDAS MI|           0|         131|         131|
+|  27.138|PAPEL LAMINADO - 50 X 60 CM - AZUL                     |           0|       7.416|       7.416|
+|  25.559|PAPEL LAMINADO - 50 X 60 CM - DOURADO - AS MEDIDAS PODE|           0|       3.611|       3.611|
+|  27.140|PAPEL LAMINADO - 50 X 60 CM - PRATA                    |           0|       3.434|       3.434|
+|  27.137|PAPEL LAMINADO - 50 X 60 CM - VERDE                    |           0|       8.585|       8.585|
+|  27.139|PAPEL LAMINADO - 50 X 60 CM - VERMELHO                 |           0|       7.253|       7.253|
+|  17.299|PAPEL MONOLUCIDO - 120 G/M2 660 X 960 MM  - PACOTE C/ 2|           0|          22|          22|
+|  12.616|PAPEL P/ REPROGRAFIA - 210 X 297 MM - A4 - GRAMATURA 75|           0|      22.355|      22.355|
+|  10.302|PAPEL P/ REPROGRAFIA 210 X 297 MM - AMARELO GR 75GR    |           0|       7.683|       7.683|
+| 132.303|PAPEL PARA DESENHO ARTISTICO PARA USO EM TECNICA DE DES|           0|       6.832|       6.832|
+|  92.908|PAPEL SULFITE A4, 210 X 297, 75G, NA COR AZUL - PACOTE |           0|       1.822|       1.822|
+|  92.907|PAPEL SULFITE A4, 210 X 297, 75G, NA COR ROSA - PACOTE |           0|       2.381|       2.381|
+|  70.379|PAPEL SULFITE, GRAMATURA 75G/M2, FORMATO A3, MEDINDO (2|           0|       2.268|       2.268|
+|  89.865|PARAFUSO  ZINCO AMARELO, CABECA CHATA - PH 4,0 X 50 - C|           0|         138|         138|
+| 104.655|PARAFUSO (FIXER) BICROMATIZADO.                        |           0|      12.374|      12.374|
+| 131.138|PARAFUSO AUTOBROCANTE, 1/4" X 1", COM CABECA SEXTAVADA |           0|         396|         396|
+| 114.923|PARAFUSO CABECA FRANCESA 3/16 X 2" COM ARRUELA E PORCA |           0|       5.742|       5.742|
+|  37.528|PARAFUSO CABECA REDONDA P/ FIXACAO DE VASO SANITARIO - |           0|         673|         673|
+| 126.060|PARAFUSO DE ZINCO AMARELO, CABECA CHATA PH 6,0 X 50    |           0|         107|         107|
+|  81.514|PARAFUSO EM ACO BICROMATIZADO, CABECA CHATA - 3,5 X 16 |           0|     131.012|     131.012|
+| 134.561|PARAFUSO EM ACO BICROMATIZADO, CABECA CHATA PH , 3,5 X |           0|         390|         390|
+| 134.562|PARAFUSO EM ACO BICROMATIZADO, CABECA CHATA PH 3,5 X 40|           0|         396|         396|
+| 134.563|PARAFUSO EM ACO BICROMATIZADO, CABECA CHATA PH 4,0 X 16|           0|         364|         364|
+| 134.564|PARAFUSO EM ACO BICROMATIZADO, CABECA CHATA PH 4,0 X 35|           0|         258|         258|
+| 134.565|PARAFUSO EM ACO BICROMATIZADO, CABECA CHATA PH 4,5 X 60|           0|         229|         229|
+| 134.566|PARAFUSO FRANCES - 1.1/2" X 1/4" - COM PORCA E ARRUELA |           0|      19.783|      19.783|
+|  78.416|PARAFUSO FRANCES - 1/2" X 8" - COM PORCA E ARRUELA     |           0|       1.019|       1.019|
+|  13.221|PARAFUSO GALVANIZADO P/ FIXACAO DE TELHAS MODULADAS - 5|           0|       1.794|       1.794|
+|  13.222|PARAFUSO GALVANIZADO P/ FIXACAO DE TELHAS MODULADAS - 8|           0|       1.141|       1.141|
+| 126.838|PARAFUSO MAQUINA CABECA REDONDA 3/8" X 3/4"            |           0|       2.421|       2.421|
+|  78.418|PARAFUSO SEXTAVADO - 1/2" X 3.1/2" - COM PORCA         |           0|         255|         255|
+| 124.963|PARAFUSO ZINCO AMARELO, CABECA CHATA PH  6,0 X 70 - CAI|           0|         156|         156|
+|  89.863|PARAFUSO ZINCO AMARELO, CABECA CHATA PH 4,0 X 25 - CAIX|           0|         357|         357|
+|  89.864|PARAFUSO ZINCO AMARELO, CABECA CHATA PH 4,0 X 30 - CAIX|           0|         774|         774|
+| 125.201|PARAFUSO ZINCO AMARELO, CABECA CHATA PH 4,5 X 40 - CAIX|           0|         668|         668|
+|  13.655|PASTA DE CARTOLINA PLASTIFICADA MOD. C/ FERRAGEM - PRET|           0|       4.386|       4.386|
+| 131.935|PASTA EM PLASTICO PP CORRUGADO, COM ABAS E ELASTICO REV|           0|       2.297|       2.297|
+|  48.901|PASTA MOLHA DEDO                                       |           0|         289|         289|
+|  78.181|PASTA PARA LIMPEZA DE ALUMINIO, POTE COM 500 GRAMAS    |           0|         188|         188|
+| 138.465|PASTA PLASTICA COM ELASTICO, SEM LOMBADA, MEDINDO 235 M|           0|       4.384|       4.384|
+| 139.767|PASTA SUSPENSA, DE POLIPROPILENO(PP-LINE), COM ESPESSUR|           0|       1.813|       1.813|
+| 134.545|PASTILHA CERAMICA, COR AMARELO CANARIO, MEDINDO 10 X 10|           0|         895|         895|
+| 134.546|PASTILHA CERAMICA, COR AZUL CLARO (PISCINA OU CEU), MED|           0|       1.036|       1.036|
+| 134.547|PASTILHA CERAMICA, COR AZUL ROYAL, MEDINDO 10 X 10 CM. |           0|       1.095|       1.095|
+| 134.548|PASTILHA CERAMICA, COR BRANCA, MEDINDO 10 X 10 CM.     |           0|       3.021|       3.021|
+| 134.549|PASTILHA CERAMICA, COR VERDE AGUA, MEDINDO 10 X 10 CM. |           0|       1.451|       1.451|
+| 126.837|PE CONICO EM FERRO CROMADO DE 15 CM                    |           0|       3.515|       3.515|
+| 134.247|PEDRA BRITADA Nº 1 -  (GRANULAMETRIA 9,5 A 25,0 MM), (U|           0|          75|          75|
+| 116.754|PERFIL CADEIRA CHAPA DOBRADA 30 MM X 25 MM - BARRA COM |           0|         365|         365|
+| 105.889|PERFIL CADEIRA DE FERRO, MEDINDO 50 MM X 25 MM, BARRA C|           0|         369|         369|
+| 123.132|PERFIL GUIA INFERIOR - MEDIDAS: 100 CM DE LARGURA TOTAL|           0|         527|         527|
+| 123.131|PERFIL GUIA SUPERIOR 0,50 M DE ALTURA X 0,50 M DE LARGU|           0|         332|         332|
+|  98.703|PERFIL RODAFORRO PVC BRANCO LISO, BARRA COM 6 MT       |           0|         229|         229|
+| 123.133|PERFIL TAMPA GUIA SUPERIOR 0,50 M DE LARGURA COM UMA DO|           0|         382|         382|
+| 116.751|PERFIL TEE, CHAPA DOBRADA, 25 MM X 25 MM - BARRA COM 03|           0|         906|         906|
+|  98.704|PERFIL TIPO EMENDA PVC BRANCO LISO, BARRA COM 6 MT     |           0|         184|         184|
+|  76.806|PERFILADO - 38 X 38 MM, PERFURADO,  C/ 6M DE COMPRIMENT|           0|         103|         103|
+|  11.264|PERFURADOR P/ PAPEL - 2 FUROS - MEDIO                  |           0|         135|         135|
+| 137.799|PERNEIRA DE SEGURANCA CONFECCIONADA EM RASPA, FECHAMENT|           0|          77|          77|
+|  78.303|PIA DE ACO INOX COM 01 CUBA, MEDINDO 1,50 M DE COMP. E |           0|          17|          17|
+|  72.184|PILHA PALITO AAA - ALCALINA                            |           0|       5.812|       5.812|
+| 139.141|PINCEL PARA PINTURA, CABO EM MADEIRA (CURTO OU LONGO), |           0|       1.706|       1.706|
+| 139.142|PINCEL PARA PINTURA, CABO EM MADEIRA (CURTO OU LONGO), |           0|       1.746|       1.746|
+| 139.143|PINCEL PARA PINTURA, CABO EM MADEIRA (CURTO OU LONGO), |           0|         250|         250|
+| 139.144|PINCEL PARA PINTURA, CABO EM MADEIRA (CURTO OU LONGO), |           0|         542|         542|
+| 131.937|PINCEL PARA PINTURA, CABO EM MADEIRA CURTO, FORMATO BRO|           0|          13|          13|
+| 123.349|PINO F25 - CAIXA COM 5.000 PINOS                       |           0|         164|         164|
+| 123.350|PINO F30 - CAIXA COM 5.000 PINOS                       |           0|          91|          91|
+|  15.085|PINO P/ TORNEIRA - 1/2"                                |           0|         529|         529|
+|  13.563|PINO P/TORNEIRA DE 3/4"                                |           0|         289|         289|
+| 122.818|PISO DE BORRACHA MODELO I, COR AZUL, ISENTO DE SUBSTANC|           0|       2.259|       2.259|
+| 125.262|PISO DE BORRACHA MODELO I, COR: AMARELO, NA MEDIDA 335 |           0|       2.039|       2.039|
+| 102.000|PISO DE CONCRETO, TIPO INTERTRAVADO RETANGULAR, COR NAT|           0|         759|         759|
+| 115.765|PLASTICO A3 PARA PLASTIFICACAO - POLASEAL 0,05 MM- 303 |           0|         766|         766|
+|  91.250|PLASTICO BOLHA - MEDIDA 1,20 M LARGURA                 |           0|         665|         665|
+|  16.978|PLUG EM PVC RIGIDO ROSCAVEL DE 1/2"                    |           0|         868|         868|
+|  16.956|PLUG EM PVC RIGIDO ROSCAVEL DE 3/4"                    |           0|         143|         143|
+| 112.163|PLUG MOVEL 2P + T 90° PADRAO NBR 14136 DE 10A/250V GIGA|           0|         108|         108|
+| 112.162|PLUG MOVEL 2P + T 90° PADRAO NBR 14136 DE 20A/250V GIGA|           0|         163|         163|
+|  55.836|PONTEIRA DE BORRACHA - DIAMETRO INTERNO 7/8"           |           0|       9.108|       9.108|
+| 134.558|PONTEIRA PLASTICA INTERNA NA COR PRETA PARA TUBO QUADRA|           0|      17.660|      17.660|
+| 134.559|PONTEIRA PLASTICA NA COR PRETA PARA TUBO RETANGULAR 20 |           0|      14.800|      14.800|
+|  64.462|PORCA SEXTAVADA DE ACO DE 1/4"                         |           0|       8.061|       8.061|
+|  87.247|PORTA CADEADO DE FERRO ZINCADO 2"                      |           0|         347|         347|
+|  14.056|PORTA CADEADO DE FERRO ZINCADO DE 3 1/2"               |           0|          72|          72|
+| 102.832|PORTA GRELHA REDONDA, EM PVC, 100MM (4"), ALTURA MINIMA|           0|          75|          75|
+|  24.888|PREGO COMUM DE CABECA CHATA - 10 X 10                  |           0|          96|          96|
+|  18.337|PREGO COMUM DE CABECA CHATA - 12 X 12                  |           0|          22|          22|
+|  18.346|PREGO COMUM DE CABECA CHATA - 15 X 15                  |           0|         250|         250|
+|  18.353|PREGO COMUM DE CABECA CHATA - 17 X 21                  |           0|         999|         999|
+|  18.357|PREGO COMUM DE CABECA CHATA - 18 X 27                  |           0|       1.098|       1.098|
+|  18.358|PREGO COMUM DE CABECA CHATA - 18 X 30                  |           0|         189|         189|
+|  14.055|PREGO COMUM DE CABECA CHATA - 19 X 36                  |           0|         482|         482|
+|  20.537|PREGO COMUM DE CABECA CHATA - 22 X 48                  |           0|         137|         137|
+|  49.858|PREGO DE ACO C/ CABECA - 12 X 12                       |           0|         185|         185|
+|  36.031|PREGO DE ACO C/ CABECA - 15 X 15                       |           0|       2.616|       2.616|
+| 137.053|PROTETOR AUDITIVO TIPO CONCHA (FONE) CONSTITUIDO DE CON|           0|          16|          16|
+| 137.019|PROTETOR AUDITIVO TIPO INSERCAO PRE-MOLDADO, REUTILIZAV|           0|         472|         472|
+| 136.859|PROTETOR FACIAL INCOLOR TIPO BOLHA                     |           0|          44|          44|
+| 114.430|PROTETOR SOLAR FPS 30 - LOCAO CREMOSA, COM REPELENTE DE|           0|         132|         132|
+| 105.293|PUXADOR EXTERNO PARA ARMARIO, COM 2 PARAFUSOS - TIPO AL|           0|         700|         700|
+| 136.273|PUXADOR PARA MOVEL EM ABS, BOLA GRANDE, COM PARAFUSO 3,|           0|       1.588|       1.588|
+| 108.398|QUADRO DE DISTRIBUICAO DE EMBUTIR PARA 56 DISJUNTORES  |           0|           5|           5|
+| 111.841|QUADRO DE DISTRIBUICAO DE SOBREPOR TRIFASICO 225 AMPERE|           0|          21|          21|
+| 114.773|QUADRO DE DISTRIBUICAO PARA 36 DISJUNTORES TIPO DIN DE |           0|          11|          11|
+|  15.051|RALO SIFONADO EM PVC DE 100 X 40 MM (1 1/2")           |           0|          47|          47|
+|  20.554|REBITE DE REPUCHO EM ALUMINIO C/ MANDRIL DE ACO 4 X 12 |           0|      12.260|      12.260|
+|  20.558|REBITE DE REPUCHO EM ALUMINIO C/ MANDRIL DE ACO 4 X 16 |           0|       9.000|       9.000|
+|  20.576|REBITE DE REPUCHO EM ALUMINIO C/ MANDRIL DE ACO 4,76 X |           0|       7.415|       7.415|
+|  20.583|REBITE DE REPUCHO EM ALUMINIO C/ MANDRIL DE ACO 6 X 25 |           0|      13.063|      13.063|
+|  20.584|REBITE DE REPUCHO EM ALUMINIO C/ MANDRIL DE ACO 6 X 30 |           0|      24.460|      24.460|
+|  87.699|REFIL DE BORRACHA PARA RODO DE ALUMINIO DE 40 CM       |           0|          86|          86|
+|  87.698|REFIL DE BORRACHA PARA RODO DE ALUMINIO DE 60 CM       |           0|          10|          10|
+|  35.224|REGISTRO DE GAVETA EM LIGA DE COBRE - 1" - S/ CANOPLA  |           0|          20|          20|
+|  25.756|REGISTRO DE GAVETA EM LIGA DE COBRE DE 1.1/2" C/ CANOPL|           0|         116|         116|
+|  27.760|REGISTRO DE GAVETA EM LIGA DE COBRE DE 1.1/2"- S/ CANOP|           0|          48|          48|
+|  25.630|REGISTRO DE GAVETA EM LIGA DE COBRE DE 3/4" C/ CANOPLA |           0|         124|         124|
+|  13.120|REGISTRO DE GAVETA EM LIGA DE COBRE DE 3/4" S/ CANOPLA |           0|          54|          54|
+|  13.117|REGISTRO DE PRESSAO 3/4" COM CANOPLA                   |           0|         104|         104|
+|  13.116|REGISTRO DE PRESSAO 3/4" SEM CANOPLA                   |           0|          40|          40|
+| 113.581|REGISTRO TIPO ESFERA, MATERIAL PVC, DIAMETRO 3/4"      |           0|         729|         729|
+| 135.703|REGUA DE 30 CM EM POLIESTIRENO. COR: TRANSPARENTE, CRIS|           0|       6.143|       6.143|
+| 113.846|REJUNTE BEGE - SACO COM 01 KG                          |           0|       2.255|       2.255|
+|  53.446|REJUNTE BRANCO - SACO COM 01 KG                        |           0|       1.853|       1.853|
+|  57.598|REJUNTE CINZA CLARO - SC C/ 01 KG                      |           0|         160|         160|
+| 107.483|RELE FOTOELETRICO COM BASE 220 V - 1000 W - TIPO NF    |           0|          51|          51|
+| 106.131|RELE TERMICO 12 A 18A LRD21 ( SCH )                    |           0|           1|           1|
+| 106.129|RELE TERMICO 5.5 A 8A LRD12 ( SCH )                    |           0|           1|           1|
+| 106.130|RELE TERMICO 7 A 10A LRD14 ( SCH )                     |           0|           2|           2|
+|  81.808|REPARO ACIONADOR PARA VALVULA DE DESCARGA HYDRA LUXO - |           0|          36|          36|
+|  65.173|REPARO COMPLETO UNIVERSAL PARA DESCARGA -  CAIXA  ACOPL|           0|          50|          50|
+|  81.563|REPARO P/ VALVULA DE DESCARGA - MARCA LORENZETTI - P-20|           0|          47|          47|
+|  81.564|REPARO P/ VALVULA DE DESCARGA - MARCA LORENZETTI - P-21|           0|          11|          11|
+|  81.565|REPARO P/ VALVULA DE DESCARGA - MARCA LORENZETTI - P-41|           0|          19|          19|
+|  15.066|REPARO P/ VALVULA DE DESCARGA 1 1/2" (MARCA DOCOL)     |           0|         129|         129|
+|  53.849|REPARO P/ VALVULA DE DESCARGA 1 1/4" (MARCA DOCOL)     |           0|          20|          20|
+| 115.805|REPARO PARA VALVULA HIDRA MAX, CLEAN PRO E BASE 325    |           0|         155|         155|
+|  81.807|REPARO PARA VALVULA HYDRA LUXO - REF. 4686924          |           0|          31|          31|
+| 136.818|RESPIRADOR PURIFICADOR DE AR TIPO PECA SEMIFACIAL FILTR|           0|       1.161|       1.161|
+| 134.544|REVESTIMENTO CERAMICO, BRANCO BRILHANTE, 32 X 56 CM (VA|           0|       2.655|       2.655|
+|  77.788|RODIZIO GIRATORIO DE 2" - P/CARRINHO COM PLACA         |           0|         776|         776|
+|  77.823|RODO DE ALUMINIO DE 60 CM C/ CABO DE ALUMINIO MEDINDO A|           0|          37|          37|
+|  71.874|ROLAMENTO - 6201 ZZ                                    |           0|         126|         126|
+|  36.399|ROLAMENTO - 6202 - ZZ                                  |           0|         143|         143|
+| 118.246|ROLAMENTO 6000 - 2 RS                                  |           0|          60|          60|
+| 118.244|ROLAMENTO 6301 - ZZ                                    |           0|         173|         173|
+| 118.245|ROLAMENTO 6302 - ZZ                                    |           0|          33|          33|
+|  58.436|ROLDANA 2.1/2" COM CAIXA EM "V"                        |           0|         427|         427|
+|  37.519|ROLDANA PLASTICA P/ FIXACAO DE FIOS ELETRICOS - 24 X 24|           0|       2.345|       2.345|
+|  37.518|ROLDANA PLASTICA P/ FIXACAO DE FIOS ELETRICOS - 30 X 30|           0|         350|         350|
+|  12.847|ROLO DE ESPUMA PARA PINTURA - 4 CM                     |           0|         947|         947|
+| 141.418|ROLO DE PELE DE CARNEIRO PARA PINTURA DE SUPERFICIES AS|           0|         857|         857|
+| 138.352|SABAO DESENGRAXANTE, INDICADO PARA DESENGORDURAR E DESE|           0|          81|          81|
+|  91.669|SABAO EM PO - EMBALAGEM C/ 01 KG                       |           0|         668|         668|
+| 110.578|SABONETE LIQUIDO PEROLADO, FRASCO COM 1 LITRO          |           0|         140|         140|
+|  83.627|SACO PLASTICO - GROSSO - 4 FUROS - TAMANHO OFICIO      |           0|      39.672|      39.672|
+| 133.191|SACO PLASTICO P/ LIXO - 15 L, COR PRETA.               |           0|     178.050|     178.050|
+|  14.121|SACO PLASTICO P/ LIXO - 50 L - 63 X 80 CM X 0,12 MM OU |           0|       4.343|       4.343|
+|   9.413|SACO PLASTICO P/ LIXO  CAP. 100 LITROS, COR PRETA - 75 |           0|       5.316|       5.316|
+|  81.152|SACO PLASTICO TRANSPARENTE, MEDINDO 15 X 30 CM - PACOTE|           0|         609|         609|
+| 100.907|SACOLA PLASTICA P/ EMBALAGEM  - LEITOSA - 40 X 50 CM - |           0|         103|         103|
+|  54.019|SAPATA INTERNA 38X38MM, COM CHAPA PARA FIXACAO NA PARED|           0|         455|         455|
+| 107.926|SAPATA LATERAL 16 MM                                   |           0|       4.424|       4.424|
+|  64.646|SAPATA REGULAVEL PARA MOVEIS, COM BUCHA 1/4 X 25 MM    |           0|       1.080|       1.080|
+|  88.839|SELADOR ACRILICO - LATA COM 18 LITROS                  |           0|          51|          51|
+| 100.802|SILICONE PARA VEDACAO - TUBO COM NO MINIMO 280G        |           0|         794|         794|
+|  23.778|SOLVENTE P/ TINTA DE DEMARCACAO VIARIA -BALDE C/ 18 LIT|           0|          41|          41|
+|  14.831|SOQUETE DE PORCELANA E-27 P/ LAMPADA INCANDESCENTE     |           0|         380|         380|
+| 128.816|TAMPAO DE PVC PARA CONDULETE DE 1.1/2"                 |           0|         805|         805|
+| 128.815|TAMPAO DE PVC PARA CONDULETE DE 3/4"                   |           0|       2.191|       2.191|
+|  14.977|TAMPO E ASSENTO P/ VASO SANITARIO ( INFANTIL )         |           0|         178|         178|
+| 138.528|TAMPO REDONDO PARA MESA, COM 1,10 M (VARIACAO +/- 0,05 |           0|          29|          29|
+|  78.509|TANQUE DE CONCRETO PRE-MOLDADO P/ LAVAGEM DE ROUPAS DE |           0|           9|           9|
+|  23.607|TARJETA CROMADA 2"                                     |           0|         575|         575|
+|  13.094|TARJETA CROMADA 3"                                     |           0|         323|         323|
+|  13.517|TE DE PVC RIGIDO SOLDAVEL P/ ESGOTO DE 2"              |           0|         362|         362|
+|  13.518|TE DE PVC RIGIDO SOLDAVEL P/ ESGOTO DE 4"              |           0|         175|         175|
+|  13.095|TE DE PVC SOLDAVEL - 1.1/2"                            |           0|         232|         232|
+|  64.647|TE DE REDUCAO EM PVC RIGIDO - SOLDAVEL - 150 X 100 MM -|           0|          18|          18|
+|  13.102|TE DE REDUCAO EM PVC RIGIDO SOLDAVEL MARROM 1" X 3/4". |           0|          24|          24|
+|  59.069|TE DE REDUCAO EM PVC SOLDAVEL, ROSCA, DE 25 MM - 1/2" -|           0|         117|         117|
+|  13.068|TE DE REDUCAO PVC RIGIDO SOLDAVEL MARROM 1.1/2 X 3/4". |           0|         163|         163|
+|  64.648|TE EM PVC RIGIDO - SOLDAVEL - 90 GRAUS - 150 MM - 6" - |           0|          14|          14|
+|  13.072|TE EM PVC RIGIDO SOLDAVEL MARROM 3/4". A MARCA DEVERA V|           0|         275|         275|
+|  61.200|TE EM PVC RIGIDO SOLDAVEL ROSCA AZUL - 3/4"            |           0|          69|          69|
+|  64.044|TELA DE ARAME GALVANIZADO - FIO 10 - MALHA 2.1/2" X 2 M|           0|         320|         320|
+|  54.680|TELA DE ARAME GALVANIZADO - FIO 10 - MALHA 2.1/2" X 4 M|           0|         130|         130|
+| 133.433|TELA EM ACO INOX 304, MALHA 14, DIAMETRO DO FIO 0,25 MM|           0|         153|         153|
+|  80.298|TELA ONDULADA FIO 14, MALHA 3/4 - MED. 10 X 2,00 M     |           0|          35|          35|
+|  40.086|TELHA DE BARRO COZIDO - TIPO ROMANA                    |           0|         927|         927|
+| 114.297|TELHA DE CONCRETO, INCLINACAO MINIMA : 30 OU 16, 40º. S|           0|       4.224|       4.224|
+|  76.218|TELHA DE FIBROCIMENTO - 0,90 X 8,20 M - TIPO CANALETE  |           0|          36|          36|
+| 106.375|TELHA EM CIMENTO REFORCADO                             |           0|       1.000|       1.000|
+| 106.376|TELHA EM CIMENTO REFORCADO COM FIO SINTETICO(CRFS)     |           0|       1.001|       1.001|
+| 112.494|TERMINAL A COMPRESSAO PARA 1 CABO DE COBRE 25 MM2 COM 1|           0|         376|         376|
+| 113.242|TERMINAL A COMPRESSAO PARA 1 CABO DE COBRE 50 MM2 TIPO |           0|         100|         100|
+| 110.892|TERMINAL A COMPRESSAO REFORCADO P/ 1 CABO DE COBRE 150M|           0|         154|         154|
+| 110.893|TERMINAL A COMPRESSAO REFORCADO P/ 1 CABO DE COBRE 95 M|           0|         119|         119|
+| 103.344|TERMINAL A PRESSAO POR ALICATE BITOLA 16,0MM - TIPO ANE|           0|         516|         516|
+|  15.648|TERMINAL A PRESSAO REFORCADO P/ 1 CABO DE COBRE 50MM2 C|           0|          36|          36|
+|  15.656|TERMINAL A PRESSAO REFORCADO P/ 1 CABO DE COBRE 95MM2 C|           0|         136|         136|
+|  15.673|TERMINAL DE COMPRESSAO TIPO OLHAL P/ CABO DE  COBRE 35M|           0|         100|         100|
+|  15.664|TERMINAL DE COMPRESSAO TIPO OLHAL P/ CABO DE COBRE 10MM|           0|          54|          54|
+|  15.668|TERMINAL DE COMPRESSAO TIPO OLHAL P/ CABO DE COBRE 120M|           0|         239|         239|
+|  15.680|TERMINAL DE COMPRESSAO TIPO OLHAL P/ CABO DE COBRE 70MM|           0|         482|         482|
+|  29.952|TESOURA EM ACO INOXIDAVEL, COM CABO EM POLIPROPILENO, 1|           0|       1.256|       1.256|
+| 138.471|TESOURA ESCOLAR, MEDINDO 140 MM (+/- 5 MM), PONTA ARRED|           0|       4.448|       4.448|
+| 109.848|TEXTURA ACRILICA GRAFIATO HIDROREPELENTE NA COR BRANCA |           0|           7|           7|
+| 128.287|THINNER PARA PINTURA AUTOMOTIVA E MOVEIS LATA COM 05 LI|           0|         677|         677|
+|  15.813|TIJOLO COMUM DE BARRO MEDINDO 20 X 9 X 4 CM            |           0|       1.765|       1.765|
+|  14.737|TINTA ACRILICA P/ DEMARCACAO DE SOLO - BALDE C/ 18 L - |           0|          20|          20|
+|  69.229|TINTA ACRILICA P/ DEMARCACAO DE SOLO - BALDE C/ 18 LITR|           0|          46|          46|
+| 141.608|TINTA ACRILICA PISO, LINHA PREMIUM, COR BRANCO - LATA C|           0|          55|          55|
+|  57.900|TINTA BETUMINOSA PARA IMPERMEABILIZACAO DE ALVENARIA - |           0|          30|          30|
+| 141.679|TINTA ESMALTE SINTETICO BRILHANTE, LINHA PREMIUM, COR A|           0|         143|         143|
+| 141.680|TINTA ESMALTE SINTETICO BRILHANTE, LINHA PREMIUM, COR A|           0|         430|         430|
+| 141.681|TINTA ESMALTE SINTETICO BRILHANTE, LINHA PREMIUM, COR V|           0|         113|         113|
+| 141.268|TINTA ESMALTE SINTETICO BRILHANTE, LINHA PREMIUM. COR B|           0|         354|         354|
+| 141.265|TINTA ESMALTE SINTETICO BRILHANTE, LINHA PREMIUM.COR PR|           0|          74|          74|
+| 141.266|TINTA ESMALTE SINTETICO BRILHANTE, LINHA PREMIUM.COR VE|           0|         109|         109|
+|  78.642|TINTA GUACHE - POTE COM 250ML - COR PRETA              |           0|         128|         128|
+|  78.646|TINTA GUACHE - POTE COM 250ML - COR VERMELHA           |           0|         309|         309|
+| 106.697|TINTA GUACHE,  ATOXICA, COR AMARELO-OURO, CONTENDO 250 |           0|         850|         850|
+|  80.874|TINTA GUACHE, POTE COM 250 ML, AZUL CLARO              |           0|         360|         360|
+| 141.786|TINTA LATEX ACRILICA SEMIBRILHO, LINHA PREMIUM, COR  AM|           0|         243|         243|
+| 141.787|TINTA LATEX ACRILICA SEMIBRILHO, LINHA PREMIUM, COR  AZ|           0|         271|         271|
+| 141.615|TINTA LATEX ACRILICA SEMIBRILHO, LINHA PREMIUM, COR BRA|           0|          61|          61|
+|  12.877|TINTA LATEX PVA BRANCO, LATA COM 18 LITROS             |           0|         500|         500|
+| 130.695|TOALHA DE PAPEL INTERFOLHADA FOLHA SIMPLES, 22,5 X 20,7|           0|       2.080|       2.080|
+| 116.874|TOMADA 2P + T DE 10/250V DE EMBUTIR COM ESPELHO PARA CA|           0|         203|         203|
+| 112.157|TOMADA 2P+T DE 20A/250V DE SOBREPOR COM CAIXA, PADRAO N|           0|          53|          53|
+| 112.156|TOMADA MOVEL 2P+T NBR 14136 DE 20A/250V                |           0|         112|         112|
+| 119.181|TOMADA MOVEL PADRAO NBR 14136 2 +T  DE 10A/250V        |           0|         610|         610|
+| 136.083|TOMADA PADRAO NBR 14136 2P + T DE 10A/250V DE SOBREPOR |           0|         436|         436|
+| 134.581|TORNEIRA BOIA PARA CAIXA D´AGUA COM CORPO METALICO (LAT|           0|          10|          10|
+| 134.582|TORNEIRA BOIA PARA CAIXA D´AGUA COM CORPO METALICO (LAT|           0|          57|          57|
+| 135.414|TORNEIRA DE MESA, BICA DO TIPO ALTA MOVEL EM METAL COM |           0|         432|         432|
+|  13.165|TORNEIRA DE PAREDE PARA PIA, 1/2" X 18 CM, CORPO E REGI|           0|          45|          45|
+| 141.429|TORNEIRA DE PRESSAO CURTA PARA TANQUE E JARDIM, EM LATA|           0|         607|         607|
+| 111.524|TORNEIRA EM METAL CROMADO, PARA PIA DE COZINHA BICA MOV|           0|          89|          89|
+|  27.136|TOUCA DE PROTECAO PARA CABELOS, TIPO COZINHEIRA, EM MAT|           0|      34.248|      34.248|
+| 133.791|TRANSFERIDOR DE 180° - COR: TRANSPARENTE               |           0|       1.529|       1.529|
+|  28.093|TRAVA DE SEGURANCA, CHAVE TETRA, P/ PORTAS             |           0|         178|         178|
+| 102.822|TRILHO PARA DISJUNTOR TIPO DIN                         |           0|          60|          60|
+|  12.856|TRINCHA PARA PINTURA - 2", COM CERDAS 100% NATURAIS    |           0|       5.330|       5.330|
+|  13.556|TUBO DE FERRO GALVANIZADO 4" BR C/ 6 M                 |           0|          44|          44|
+| 102.277|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 1"     |           0|         162|         162|
+| 102.276|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 1.1/2" |           0|         232|         232|
+| 102.279|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 1.1/4" |           0|         314|         314|
+| 102.278|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 1/2"   |           0|         144|         144|
+| 101.867|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 2" - DI|           0|          37|          37|
+| 101.868|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 3/4" - |           0|       1.232|       1.232|
+| 121.054|TUBO DE FERRO GALVANIZADO DN (DIAMETRO NOMINAL) 3´´ - D|           0|          95|          95|
+|  54.550|TUBO DE FERRO METALON - 40 X 40 X 1,5MM - BARRA COM 6 M|           0|         655|         655|
+|  54.552|TUBO DE FERRO METALON - 50 X 50 X 1,5MM - BARRA COM 6 M|           0|         805|         805|
+|  44.398|TUBO DE FERRO TIPO METALON, 40 X 20 X 1,5 MM, BARRA COM|           0|       1.070|       1.070|
+|  27.764|TUBO DE POLIETILENO DE 1" - (PONTA VERMELHA)           |           0|         560|         560|
+|  28.512|TUBO DE POLIETILENO DE 3/4" -  (PONTA VERMELHA)        |           0|         404|         404|
+|  13.558|TUBO DE PVC RIGIDO SOLDAVEL 2" X 06 M (P/ESGOTO)       |           0|         106|         106|
+|  27.761|TUBO DE PVC RIGIDO SOLDAVEL BRANCO DE 40 MM - 1.1/2" X |           0|          52|          52|
+|  13.559|TUBO DE PVC RIGIDO SOLDAVEL DE 100 MM - 4" X 6 M (P/ESG|           0|         190|         190|
+|  13.562|TUBO DE PVC RIGIDO SOLDAVEL DE 25 MM  - 3/4" X 06 M - C|           0|         308|         308|
+|  13.560|TUBO DE PVC RIGIDO SOLDAVEL DE 32 MM - 1" X 06 M  - CLA|           0|          62|          62|
+|  13.561|TUBO DE PVC RIGIDO SOLDAVEL DE 50 MM - 1.1/2" X 06 M   |           0|          54|          54|
+| 114.822|TUBO DE PVC SOLDAVEL, 10" 250MM X 6M PARA ESGOTO NA COR|           0|          39|          39|
+|  60.116|TUBO DESCARGA PONTA AZUL - 18                          |           0|         141|         141|
+|  64.253|TUBO QUADRADO DE METALON - 1" X 1" X 1,5 MM - BARRA COM|           0|       1.590|       1.590|
+| 111.336|TUBO QUADRADO DE METALON 100 X 100 X 2 MM - BARRA COM 0|           0|         622|         622|
+|  66.168|TUBO QUADRADO DE METALON 20MM X 20MM X 1,5MM - BARRA CO|           0|         139|         139|
+|  45.607|UNIAO DE PVC COLA MARROM -  25 MM, DE ACORDO COM A NBR |           0|         692|         692|
+|  60.830|UNIAO PARA TUBO DE POLIETILENO - 3/4"                  |           0|          78|          78|
+|  28.308|UNIAO PVC COLA MARROM DE 1", DE ACORDO COM A NORMA NBR |           0|          74|          74|
+|  28.306|UNIAO PVC COLA MARROM DE 1.1/2", DE ACORDO COM A NORMA |           0|         133|         133|
+|  28.307|UNIAO PVC COLA MARROM DE 1.1/4", DE ACORDO COM A NORMA |           0|          22|          22|
+|  80.390|VALVULA AMERICANA 3 1/2" X 1 1/2" EM INOX              |           0|          75|          75|
+| 104.667|VALVULA DE DESCARGA, EM LATAO, COM DIAMETRO NOMINAL DE |           0|          96|          96|
+| 132.623|VASO SANITARIO INFANTIL, NA COR BRANCA, MATERIAL EM LOU|           0|          65|          65|
+|  13.192|VASO SANITARIO SIFONADO CONVENCIONAL DE LOUÇA PADRAO PO|           0|          39|          39|
+|  42.854|VELA(REFIL), PARA FILTRO MOD. AP 055                   |           0|         293|         293|
+|  54.026|VERGALHAO ROSQUEADO DE 1/4" X 3 METROS                 |           0|         125|         125|
+| 141.270|VERNIZ SINTETICO MARITIMO BRILHANTE, LINHA PREMIUM, GAL|           0|          22|          22|
+|  77.557|VIGA DE GARAPEIRA BRUTA - 0,06 X 0,16 X 5,00 M COMPRIME|           0|         186|         186|
+|  77.554|VIGA DE GARAPEIRA BRUTA - 6 CM X 12 CM X 5,50 M COMPRIM|           0|          24|          24|
+|  74.911|VIGA DE GARAPEIRA BRUTA - 6 X 12 CM X 4,50 M COMPRIMENT|           0|          17|          17|
+|  82.185|VIGA DE GARAPEIRA BRUTA - 60MM X 160MM X 6,00 M COMPRIM|           0|         159|         159|
+| 114.852|VIGA DE GARAPEIRA BRUTA - 60MM X 160MM X 6,50 M COMPRIM|           0|         133|         133|
+| 114.853|VIGA DE GARAPEIRA BRUTA - 60MM X 160MM X 7,00 M COMPRIM|           0|         161|         161|
+|  74.908|VIGA DE GARAPEIRA BRUTA - MEDIDAS: 06 CM X 16 CM X 4,00|           0|         350|         350|
+|  77.556|VIGA DE GARAPEIRA BRUTA - MEDIDAS: 06 CM X 16 CM X 4,50|           0|          87|          87|
+|  74.907|VIGA DE GARAPEIRA BRUTA - MEDIDAS: 06 CM X 16 CM X 5,50|           0|          11|          11|
+| 115.841|VITRO DE CORRER EM ALUMINIO COM VIDROS E GRADE EM ALUMI|           0|          14|          14|
+| 115.840|VITRO DE CORRER EM ALUMINIO COM VIDROS E GRADE EM ALUMI|           0|          25|          25|
+|  17.946|WIDIA PARA CORTAR PISOS E AZULEJOS                     |           0|       2.316|       2.316|
+| 136.837|BOTA DE PVC, CANO LONGO Nº 36 - BOTA DE SEGURANCA NA CO|           0|           3|           3|
+| 136.838|BOTA DE PVC, CANO LONGO Nº 37 - BOTA DE SEGURANCA NA CO|           0|           4|           4|
+| 136.839|BOTA DE PVC, CANO LONGO Nº 38 - BOTA DE SEGURANCA NA CO|           0|          16|          16|
+| 136.843|BOTA DE PVC, CANO LONGO Nº 42 - BOTA DE SEGURANCA NA CO|           0|           4|           4|
+| 136.820|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|          12|          12|
+| 136.821|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|           5|           5|
+| 136.822|BOTINA DE SEGURANCA CONFECCIONADA EM COURO, FECHAMENTO |           0|          77|          77|
+|  12.812|BROXA RETANGULAR - 16,5 X 6 CM                         |           0|          63|          63|
+|  38.648|CABO CTP-APL - SN - 50/10 PARES                        |           0|         308|         308|
+|  48.178|CHAPA DE LAMINADO MELAMINICO C/ 3,08 X 1,25 M, ESPESSUR|           0|          36|          36|
+| 116.771|CHAPA EM MDF, BRANCO, 02 FACES 2,75 X 1,83 X 25 MM     |           0|          28|          28|
+| 132.715|CUMEEIRA ARTICULADA FIBRA SINTETICA CRFS, 1,10 X 06 MM |           0|         172|         172|
+| 132.714|CUMEEIRA ARTICULADA FIBRA SINTETICA CRFS, 1,10 X 06 MM |           0|         153|         153|
+|  65.610|CUMEEIRA ARTICULADA PARA TELHA CALHETAO 90 - SUPERIOR  |           0|          15|          15|
+|  65.609|CUMEEIRA ARTICULADA PARA TELHA KALHETAO 90 - INFERIOR  |           0|           3|           3|
+| 115.135|CUMEEIRA DE FIBROCIMENTO ONDA DA MEDIDA 0,50 CM X 15°  |           0|         177|         177|
+| 133.043|CUMEEIRA PARA TELHA TRAPEZOIDAL, MODELO L38            |           0|          25|          25|
+|  85.798|DISCO DE DESBASTE DE  FERRO - 4 1/2" X 3/16" X 7/8" - P|           0|         264|         264|
+|  88.718|DISJUNTOR NORMA DIN CURVA B PADRAO, BIPOLAR, 10 AMPERES|           0|          96|          96|
+| 100.383|FIO DE NYLON DE 3,0MM, QUADRADO, USO EM ROCADEIRA LATER|           0|          74|          74|
+| 103.490|FIO TELEFONICO EXTERNO FE - AA - 80                    |           0|           3|           3|
+|  98.360|FITA DE BORDA EM PVC TEXTURIZADA, 35MM - ROLO COM 50 MT|           0|          55|          55|
+| 128.392|FITA DE BORDO EM PVC TEXTURIZADA, COR BRANCA, MEDIDAS 4|           0|         103|         103|
+|  13.021|GRAMPO ISOLANTE FIX-FIO 1,0 A 2,5 MM2  (TIPO MIGUELAO) |           0|         250|         250|
+| 108.440|HOLOFOTE RETANGULAR COM BASE E-40 EM ALUMINIO          |           0|           6|           6|
+|   2.278|LINHA DE PEDREIRO - ROLO COM 100 M                     |           0|         208|         208|
+|  17.663|LIXA D'AGUA EM FOLHA 225 X 275 MM GRAO 180             |           0|         190|         190|
+| 130.614|OLEO LUBRIFICANTE PARA MOTORES 2 TEMPOS, PROPORCAO DE M|           0|         726|         726|
+|  87.157|PASTILHA CERAMICA TELADA, 10 X 10 CM, COR VERDE        |           0|         329|         329|
+| 128.832|PNEU 28 X 9 - 15 (7,0) MACICO PARA EMPILHADEIRA        |           0|           2|           2|
+| 125.576|PNEU 700/12, 14 LONAS, PNEUMATICO - PARA EMPILHADEIRA  |           0|           4|           4|
+|  86.891|PONTEIRA REDONDA DE BORRACHA,  EXTERNA DE 5/8"         |           0|      12.840|      12.840|
+| 109.251|SACO PLASTICO PARA LIXO, COR AZUL, 100 LITROS          |           0|         259|         259|
+| 102.443|TAMPO EM COMPENSADO DE 18MM REVESTIDO EM LAMINADO MELAM|           0|         210|         210|
+| 104.755|TAMPO PARA CARTEIRA - VERDE CLARO - 400MM X 600MM X 18M|           0|          60|          60|
+|  50.476|TELHA DE BARRO COZIDO - TIPO PAULISTINHA               |           0|         571|         571|
+| 133.042|TELHA TRAPEZOIDAL 5000MM COMPRIMENTO X 1056MM LARGURA X|           0|          50|          50|
+|  64.821|TINTA P/ PISO - AMARELO - LATA COM 18 LITROS           |           0|          18|          18|
+| 119.087|TOMADA TELEFONICA PADRAO TELEBRAS DE EMBUTIR, COM SUPOR|           0|         255|         255|
+=========================================================================================================
+Emissão: 26/11/2023 17:25:50 | Consideradas TODAS as entradas.

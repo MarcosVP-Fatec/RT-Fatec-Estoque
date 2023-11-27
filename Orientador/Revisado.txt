@@ -39,25 +39,21 @@
 
 14) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
 
---) Rever a descrição XLSM
-    Ajustado para Workbook quando necessário.
+15) Trocar "planilha" por "Workbook" quando se tratar do arquivo xlsm
 
---) Trocar planilha por WorkBook quando se tratar do arquivo xlsm
-    Trocar planilha por WorkSheet quando se tratar de aba, planilha.
-
---) Alteração de verbos conjugados para impessoal ou 3ª pessoa no singular
+16) Alteração de verbos conjugados para impessoal ou 3ª pessoa no singular
     "Usar a terceira forma no singular. Em que pode-se ver...."
 
---) Adotar o uso de apêndice para exibir os detalhes repetitivos mantendo no corpo do documento alguns desses itens.
+17) Adotar o uso de apêndice para exibir os detalhes repetitivos mantendo no corpo do documento alguns desses itens.
 
---) Manter essas explicações na introdução.
+18) Manter essas explicações na introdução.
     Aqui no capítulo 3, falar das tecnologias e das motivações na adoção delas, mas vinculando aos resultados. Quais os elementos de tecnologia que proporcionaram um determinado resultado.
 
---) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
+19) Rever a tabela de resultados de acordo com os novos textos da tabela de
+problemas.
 
---) Rever a tabela de resultados de acordo com os novos textos da tabela de problemas.
-
---) Ajustar as datas de acessos das notas de rodapé
+20) Rever a descrição XLSM
+    Ajustado para Workbook quando necessário.
 
 --) Rever a figura 5
 
@@ -97,7 +93,7 @@ WorkBook: Definição data para os arquivos .xls, .xlsx ou .xlsm.
 10 PYTHON SOFTWARE FUNDATION. Python. Disponível em: <https://www.python.org/psf-landing/>. Acesso em: 24/11/2023.
 
 Workbook-Apuração-Compras
-Workbook-Itens-em-ATA
+Workbook-Itens-em-ARP
 Workbook-Complementos
 Workbook-ComprasExtras
 Workbook-Excluir-do-Estoque
@@ -106,6 +102,9 @@ Workbook-Justificativas-RC
 Workbook-Parâmetros
 Workbook-Ponto-de-Pedido
 Workbook-Itens-Cadastro
+
+Workbook-Apuração-Compras[ConferirCompra]
+
 
 
 
