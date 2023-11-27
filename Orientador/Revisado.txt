@@ -32,16 +32,18 @@
 
 11) Ajustes nos gráficos de Itens Zerados no Estoque para melhorar a visualização.
 
+12) Remover informação de data quando foi construído.
+
+13) "Remover a referência ao passado e usar o tempo presente."
+    Pág 12.
+
+14) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
+
 --) Rever a descrição XLSM
     Ajustado para Workbook quando necessário.
 
 --) Trocar planilha por WorkBook quando se tratar do arquivo xlsm
     Trocar planilha por WorkSheet quando se tratar de aba, planilha.
-
---) Remover informação de data quando foi construído.
-
---) "Remover a referência ao passado e usar o tempo presente."
-    Pág 12.
 
 --) Alteração de verbos conjugados para impessoal ou 3ª pessoa no singular
     "Usar a terceira forma no singular. Em que pode-se ver...."
@@ -54,6 +56,12 @@
 --) 3.2 Levar para o começo durante o descritivo da solução ou mesmo na introdução.
 
 --) Rever a tabela de resultados de acordo com os novos textos da tabela de problemas.
+
+--) Ajustar as datas de acessos das notas de rodapé
+
+--) Rever a figura 5
+
+--) Rever a figura 6 - Colocar o Python
 
 --) Rever o README.md
 
@@ -71,6 +79,37 @@ WorkBook: Definição data para os arquivos .xls, .xlsx ou .xlsm.
 1 LEI Nº 8.666, DE 21 DE JUNHO DE 1993, Presidência da República Casa Civil. Disponível em: <https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm>. Acesso em: 07/09/23.
 
 2 CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988, Presidência da República Casa Civil. Disponível em: <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>. Acesso em: 07/09/23.
+
+3 EXCEL.WORKBOOK, Microsoft. Disponível em: <https://learn.microsoft.com/pt-br/powerquery-m/excel-workbook>. Acesso em: 24/11/2023.
+
+4 DATABASE. Oracle. Disponível em: <https://www.oracle.com/database/>. Acesso em: 24/11/2023
+
+5 HOME. Oracle. Disponível em: <https://www.oracle.com/>. Acesso em: 24/11/2023
+
+6 MICROSOFT EXCEL. Microsoft. Disponível em: <http://www.microsoft.com/pt-br/microsoft-365/excel>. Acesso em: 24/11/2023.
+
+7 HOME, Microsoft. Disponível em: <http://www.microsoft.com/>. Acesso em: 24/11/2023.
+
+8 REFERÊNCIA DO VBA DO EXCEL. Microsoft. Disponível em: <https://learn.microsoft.com/pt-br/office/vba/api/overview/excel>. Acesso em: 24/11/2023.
+
+9 HOME. Python. Disponível em: <https://www.python.org/>. Acesso em: 24/11/2023.
+
+10 PYTHON SOFTWARE FUNDATION. Python. Disponível em: <https://www.python.org/psf-landing/>. Acesso em: 24/11/2023.
+
+Workbook-Apuração-Compras
+Workbook-Itens-em-ATA
+Workbook-Complementos
+Workbook-ComprasExtras
+Workbook-Excluir-do-Estoque
+Workbook-Grupos
+Workbook-Justificativas-RC
+Workbook-Parâmetros
+Workbook-Ponto-de-Pedido
+Workbook-Itens-Cadastro
+
+
+
+
 
 
 
