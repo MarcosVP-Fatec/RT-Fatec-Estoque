@@ -55,11 +55,14 @@ problemas.
 20) Rever a descrição XLSM
     Ajustado para Workbook quando necessário.
 
---) Rever a figura 5
+21) Rever a figura 5 - Inclusão do Python/Pandas
 
---) Rever a figura 6 - Colocar o Python
+22) Rever a figura 6 - Colocar o Python/Pandas
+
 
 --) Rever o README.md
+
+
 
 
 
