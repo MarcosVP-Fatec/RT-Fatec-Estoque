@@ -106,7 +106,21 @@ Workbook-Itens-Cadastro
 Workbook-Apuração-Compras[ConferirCompra]
 
 
+Intalar o Phyton
+https://tecnoblog.net/noticias/2023/09/19/microsoft-lanca-editor-de-python-no-excel-veja-como-instalar/
 
+
+https://www.youtube.com/watch?v=XbjYDb74sfk
+reg add HKCU\Software\Policies\Microsoft\office\16.0\common /v insiderslabbehavior /t REG_DWORD /d 1
+
+a) Executar no CMD:
+   reg add HKCU\Software\Policies\Microsoft\office\16.0\common /v insiderslabbehavior /t REG_DWORD /d 1
+b) Abrir o Excel
+c) Conta > Insider: Selecionar Beta
+d) Aguardar instalação do novo pacote ofice
+e) Reiniciar o computador
+Fatec_mvp_#2023
+COMUM_pwd_$2023
 
 
 
